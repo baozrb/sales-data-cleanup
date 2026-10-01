@@ -1,0 +1,554 @@
+amazon-order-id	purchase-date	order-status	product-name	sku	quantity	currency	item-price	buyer-email
+111-7457202-6585238	2026-01-02T03:08:55+00:00	Shipped	Notebook A5	NB-040	1	USD	7.50	6d4bed523c@marketplace.amazon.com
+111-2140044-1200679	2026-01-05T23:03:16+00:00	Shipped	Earl Grey 100g	TEA-011	1	USD	8.50	1a8677b81d@marketplace.amazon.com
+111-2140044-1200679	2026-01-05T23:03:16+00:00	Shipped	Green Tea 100g	TEA-010	1	USD	9.50	1a8677b81d@marketplace.amazon.com
+111-2140044-1200679	2026-01-05T23:03:16+00:00	Shipped	Café Mug 350ml	MUG-001	1	USD	14.00	1a8677b81d@marketplace.amazon.com
+114-8788136-8182422	2026-01-05T23:18:02+00:00	Shipped	Notebook A5	NB-040	1	USD	7.50	199e85e4d4@marketplace.amazon.com
+111-6119031-8550780	2026-01-07T01:32:35+00:00	Shipped	Matcha 30g	TEA-012	1	USD	19.00	3554f5df70@marketplace.amazon.com
+111-6119031-8550780	2026-01-07T01:32:35+00:00	Shipped	Earl Grey 100g	TEA-011	1	USD	8.50	3554f5df70@marketplace.amazon.com
+111-6119031-8550780	2026-01-07T01:32:35+00:00	Shipped	Travel Mug	MUG-002	1	USD	24.00	3554f5df70@marketplace.amazon.com
+112-4213634-5728772	2026-01-07T03:35:40+00:00	Shipped	Gift Box	GFT-070	1	USD	45.00	89c10750bc@marketplace.amazon.com
+111-4465793-6877363	2026-01-07T13:52:58+00:00	Shipped	Gel Pen 3-pack	PEN-041	1	USD	4.50	244563abbe@marketplace.amazon.com
+111-4465793-6877363	2026-01-07T13:52:58+00:00	Shipped	Travel Mug	MUG-002	1	USD	24.00	244563abbe@marketplace.amazon.com
+111-4465793-6877363	2026-01-07T13:52:58+00:00	Shipped	Soy Candle	CND-050	1	USD	16.00	244563abbe@marketplace.amazon.com
+112-1034351-8994829	2026-01-07T18:48:59+00:00	Shipped	Earl Grey 100g	TEA-011	2	USD	17.00	ac0273be68@marketplace.amazon.com
+111-5285846-3857489	2026-01-08T14:30:42+00:00	Shipped	Canvas Tote	BAG-030	1	USD	18.00	ca3360d115@marketplace.amazon.com
+111-5285846-3857489	2026-01-08T14:30:42+00:00	Shipped	Notebook A5	NB-040	1	USD	7.50	ca3360d115@marketplace.amazon.com
+111-5285846-3857489	2026-01-08T14:30:42+00:00	Shipped	Earl Grey 100g	TEA-011	1	USD	8.50	ca3360d115@marketplace.amazon.com
+112-2056117-1369713	2026-01-09T14:01:37+00:00	Shipped	Notebook A5	NB-040	1	USD	7.50	d53b79da1e@marketplace.amazon.com
+112-2056117-1369713	2026-01-09T14:01:37+00:00	Shipped	Green Tea 100g	TEA-010	1	USD	9.50	d53b79da1e@marketplace.amazon.com
+112-3557220-8470322	2026-01-09T16:31:38+00:00	Cancelled	Canvas Tote	BAG-030	1	USD	18.00	578b3842a@marketplace.amazon.com
+112-3557220-8470322	2026-01-09T16:31:38+00:00	Cancelled	Matcha 30g	TEA-012	2	USD	38.00	578b3842a@marketplace.amazon.com
+114-9389519-3584996	2026-01-10T15:28:56+00:00	Shipped	Soy Candle	CND-050	1	USD	16.00	7bec737598@marketplace.amazon.com
+114-9389519-3584996	2026-01-10T15:28:56+00:00	Shipped	Green Tea 100g	TEA-010	2	USD	19.00	7bec737598@marketplace.amazon.com
+114-9389519-3584996	2026-01-10T15:28:56+00:00	Shipped	Café Mug 350ml	MUG-001	3	USD	42.00	7bec737598@marketplace.amazon.com
+113-4229300-2812049	2026-01-10T22:59:19+00:00	Shipped	Canvas Tote	BAG-030	2	USD	36.00	b6985d654b@marketplace.amazon.com
+114-3435283-5056398	2026-01-11T05:02:48+00:00	Shipped	Travel Mug	MUG-002	1	USD	24.00	dba0456992@marketplace.amazon.com
+114-3435283-5056398	2026-01-11T05:02:48+00:00	Shipped	Earl Grey 100g	TEA-011	1	USD	8.50	dba0456992@marketplace.amazon.com
+112-7196363-2992563	2026-01-12T21:42:00+00:00	Shipped	Green Tea 100g	TEA-010	1	USD	9.50	1c689b4fb2@marketplace.amazon.com
+111-8869895-2995183	2026-01-12T22:58:32+00:00	Shipped	Notebook A5	NB-040	2	USD	15.00	100b147f1f@marketplace.amazon.com
+111-9567311-8128865	2026-01-16T08:49:27+00:00	Shipped	Matcha 30g	TEA-012	1	USD	19.00	a976f3ba50@marketplace.amazon.com
+111-9567311-8128865	2026-01-16T08:49:27+00:00	Shipped	Green Tea 100g	TEA-010	1	USD	9.50	a976f3ba50@marketplace.amazon.com
+111-9567311-8128865	2026-01-16T08:49:27+00:00	Shipped	Notebook A5	NB-040	1	USD	7.50	a976f3ba50@marketplace.amazon.com
+111-8897632-1846511	2026-01-17T20:44:17+00:00	Shipped	Earl Grey 100g	TEA-011	1	USD	8.50	160dc5d42e@marketplace.amazon.com
+111-8897632-1846511	2026-01-17T20:44:17+00:00	Shipped	Soy Candle	CND-050	1	USD	16.00	160dc5d42e@marketplace.amazon.com
+111-2722408-8244199	2026-01-17T21:58:23+00:00	Pending	Canvas Tote	BAG-030	1	USD	18.00	7ed93eea4d@marketplace.amazon.com
+111-2722408-8244199	2026-01-17T21:58:23+00:00	Pending	Gift Box	GFT-070	1	USD	45.00	7ed93eea4d@marketplace.amazon.com
+111-2722408-8244199	2026-01-17T21:58:23+00:00	Pending	Earl Grey 100g	TEA-011	1	USD	8.50	7ed93eea4d@marketplace.amazon.com
+113-6293259-9990666	2026-01-19T05:47:28+00:00	Shipped	Gel Pen 3-pack	PEN-041	2	USD	9.00	af93d054e4@marketplace.amazon.com
+113-7669916-3482120	2026-01-19T05:56:51+00:00	Shipped	Green Tea 100g	TEA-010	3	USD	28.50	5e6d79d8bf@marketplace.amazon.com
+113-7669916-3482120	2026-01-19T05:56:51+00:00	Shipped	Soy Candle	CND-050	1	USD	16.00	5e6d79d8bf@marketplace.amazon.com
+113-4044357-1455856	2026-01-19T23:34:14+00:00	Shipped	Green Tea 100g	TEA-010	1	USD	9.50	634c4b52aa@marketplace.amazon.com
+113-8995004-2615677	2026-01-20T06:25:35+00:00	Shipped	Green Tea 100g	TEA-010	1	USD	9.50	4255ac0d06@marketplace.amazon.com
+112-9244416-2341452	2026-01-22T23:22:15+00:00	Shipped	Matcha 30g	TEA-012	2	USD	38.00	fa3900bc0@marketplace.amazon.com
+114-8818548-4387852	2026-01-24T08:23:20+00:00	Shipped	Green Tea 100g	TEA-010	1	USD	9.50	7d7f764fce@marketplace.amazon.com
+114-8818548-4387852	2026-01-24T08:23:20+00:00	Shipped	Soy Candle	CND-050	1	USD	16.00	7d7f764fce@marketplace.amazon.com
+113-8800337-9672974	2026-01-25T04:53:05+00:00	Shipped	Espresso Machine	ESP-090	1	USD	1249.00	9ce3d1803c@marketplace.amazon.com
+112-7661319-2728209	2026-01-25T04:53:39+00:00	Shipped	Matcha 30g	TEA-012	1	USD	19.00	e0efd1b588@marketplace.amazon.com
+112-7661319-2728209	2026-01-25T04:53:39+00:00	Shipped	Earl Grey 100g	TEA-011	2	USD	17.00	e0efd1b588@marketplace.amazon.com
+113-3605071-2414508	2026-01-25T23:09:30+00:00	Shipped	Glass Teapot	POT-020	1	USD	32.00	63e2ae3f87@marketplace.amazon.com
+112-3586212-9320631	2026-01-26T05:43:00+00:00	Shipped	Glass Teapot	POT-020	1	USD	32.00	c569b6f3b7@marketplace.amazon.com
+112-3586212-9320631	2026-01-26T05:43:00+00:00	Shipped	Canvas Tote	BAG-030	1	USD	18.00	c569b6f3b7@marketplace.amazon.com
+114-3999964-5838090	2026-01-26T22:12:51+00:00	Cancelled	Green Tea 100g	TEA-010	1	USD	9.50	1b13b2d1ab@marketplace.amazon.com
+111-3342942-5688532	2026-01-27T11:47:10+00:00	Shipped	Ceramic Planter	PLT-060	1	USD	22.00	9c35fa46fe@marketplace.amazon.com
+111-3342942-5688532	2026-01-27T11:47:10+00:00	Shipped	Notebook A5	NB-040	1	USD	7.50	9c35fa46fe@marketplace.amazon.com
+113-3986525-5027876	2026-01-28T03:41:16+00:00	Cancelled	Café Mug 350ml	MUG-001	1	USD	14.00	66dd926cbf@marketplace.amazon.com
+113-9515120-4678843	2026-01-28T21:08:29+00:00	Shipped	Green Tea 100g	TEA-010	1	USD	9.50	a8a05ff5e6@marketplace.amazon.com
+111-1734460-3177250	2026-01-29T00:19:06+00:00	Shipped	Earl Grey 100g	TEA-011	1	USD	8.50	3308018e83@marketplace.amazon.com
+112-7357268-2861751	2026-01-30T03:32:43+00:00	Shipped	Glass Teapot	POT-020	2	USD	64.00	4e35d21dea@marketplace.amazon.com
+112-7357268-2861751	2026-01-30T03:32:43+00:00	Shipped	Notebook A5	NB-040	2	USD	15.00	4e35d21dea@marketplace.amazon.com
+111-1875823-5947882	2026-01-30T07:02:34+00:00	Shipped	Gel Pen 3-pack	PEN-041	1	USD	4.50	1866d4b394@marketplace.amazon.com
+111-1875823-5947882	2026-01-30T07:02:34+00:00	Shipped	Canvas Tote	BAG-030	1	USD	18.00	1866d4b394@marketplace.amazon.com
+111-6467186-2189907	2026-01-30T13:05:39+00:00	Shipped	Canvas Tote	BAG-030	1	USD	18.00	768862036f@marketplace.amazon.com
+111-6467186-2189907	2026-01-30T13:05:39+00:00	Shipped	Glass Teapot	POT-020	1	USD	32.00	768862036f@marketplace.amazon.com
+114-5345236-2732870	2026-01-31T07:11:27+00:00	Shipped	Green Tea 100g	TEA-010	1	USD	9.50	9212068ad6@marketplace.amazon.com
+114-5345236-2732870	2026-01-31T07:11:27+00:00	Shipped	Soy Candle	CND-050	1	USD	16.00	9212068ad6@marketplace.amazon.com
+114-5345236-2732870	2026-01-31T07:11:27+00:00	Shipped	Notebook A5	NB-040	2	USD	15.00	9212068ad6@marketplace.amazon.com
+114-6444432-1252794	2026-02-01T19:17:06+00:00	Shipped	Earl Grey 100g	TEA-011	1	USD	8.50	9546ae7e06@marketplace.amazon.com
+112-1191837-7417066	2026-02-03T11:54:25+00:00	Shipped	Matcha 30g	TEA-012	1	USD	19.00	a863dfcd6@marketplace.amazon.com
+112-1191837-7417066	2026-02-03T11:54:25+00:00	Shipped	Matcha 30g	TEA-012	1	USD	19.00	a863dfcd6@marketplace.amazon.com
+112-7455837-8431651	2026-02-03T19:25:57+00:00	Shipped	Earl Grey 100g	TEA-011	2	USD	17.00	8fe99df69@marketplace.amazon.com
+114-9342869-4872547	2026-02-03T20:38:28+00:00	Shipped	Gel Pen 3-pack	PEN-041	2	USD	9.00	72275b1e2@marketplace.amazon.com
+111-4418084-5766683	2026-02-04T04:22:27+00:00	Shipped	Gel Pen 3-pack	PEN-041	1	USD	4.50	bf2b15619e@marketplace.amazon.com
+111-4418084-5766683	2026-02-04T04:22:27+00:00	Shipped	Notebook A5	NB-040	1	USD	7.50	bf2b15619e@marketplace.amazon.com
+114-9024879-1546310	2026-02-05T04:30:27+00:00	Shipped	Gel Pen 3-pack	PEN-041	1	USD	4.50	dc64caa1c7@marketplace.amazon.com
+114-9024879-1546310	2026-02-05T04:30:27+00:00	Shipped	Travel Mug	MUG-002	1	USD	24.00	dc64caa1c7@marketplace.amazon.com
+114-9024879-1546310	2026-02-05T04:30:27+00:00	Shipped	Green Tea 100g	TEA-010	1	USD	9.50	dc64caa1c7@marketplace.amazon.com
+112-4616607-5747402	2026-02-05T14:43:18+00:00	Shipped	Earl Grey 100g	TEA-011	1	USD	8.50	6b307a1acb@marketplace.amazon.com
+114-4356706-6126237	2026-02-06T21:21:07+00:00	Shipped	Green Tea 100g	TEA-010	1	USD	9.50	1c150d28eb@marketplace.amazon.com
+113-8962686-9813089	2026-02-08T12:11:47+00:00	Pending	Gel Pen 3-pack	PEN-041	1	USD	4.50	ee10ecf6ae@marketplace.amazon.com
+113-8962686-9813089	2026-02-08T12:11:47+00:00	Pending	Earl Grey 100g	TEA-011	2	USD	17.00	ee10ecf6ae@marketplace.amazon.com
+112-9693462-5721406	2026-02-08T12:35:49+00:00	Shipped	Ceramic Planter	PLT-060	1	USD	22.00	697c2257a0@marketplace.amazon.com
+111-6346688-7946441	2026-02-08T21:49:36+00:00	Cancelled	Ceramic Planter	PLT-060	1	USD	22.00	714da838b7@marketplace.amazon.com
+111-6346688-7946441	2026-02-08T21:49:36+00:00	Cancelled	Gel Pen 3-pack	PEN-041	1	USD	4.50	714da838b7@marketplace.amazon.com
+111-6346688-7946441	2026-02-08T21:49:36+00:00	Cancelled	Travel Mug	MUG-002	2	USD	48.00	714da838b7@marketplace.amazon.com
+113-7583744-2197636	2026-02-09T00:42:37+00:00	Shipped	Gel Pen 3-pack	PEN-041	2	USD	9.00	312e7d952b@marketplace.amazon.com
+114-3273269-6995933	2026-02-09T00:57:43+00:00	Shipped	Canvas Tote	BAG-030	3	USD	54.00	5c45cdb96b@marketplace.amazon.com
+114-3273269-6995933	2026-02-09T00:57:43+00:00	Shipped	Café Mug 350ml	MUG-001	1	USD	14.00	5c45cdb96b@marketplace.amazon.com
+112-6037789-8304611	2026-02-09T09:08:58+00:00	Shipped	Canvas Tote	BAG-030	2	USD	36.00	d4dc352577@marketplace.amazon.com
+111-3962978-8071943	2026-02-09T18:19:25+00:00	Shipped	Matcha 30g	TEA-012	1	USD	19.00	e4fedd22d9@marketplace.amazon.com
+111-3962978-8071943	2026-02-09T18:19:25+00:00	Shipped	Gel Pen 3-pack	PEN-041	1	USD	4.50	e4fedd22d9@marketplace.amazon.com
+111-3962978-8071943	2026-02-09T18:19:25+00:00	Shipped	Earl Grey 100g	TEA-011	1	USD	8.50	e4fedd22d9@marketplace.amazon.com
+111-5340101-5049009	2026-02-11T23:10:43+00:00	Shipped	Gift Box	GFT-070	1	USD	45.00	b94dcf2615@marketplace.amazon.com
+111-5340101-5049009	2026-02-11T23:10:43+00:00	Shipped	Café Mug 350ml	MUG-001	1	USD	14.00	b94dcf2615@marketplace.amazon.com
+114-6321470-7816395	2026-02-12T00:10:47+00:00	Shipped	Gel Pen 3-pack	PEN-041	2	USD	9.00	dd462741ec@marketplace.amazon.com
+111-7597913-1622329	2026-02-12T20:39:04+00:00	Shipped	Café Mug 350ml	MUG-001	1	USD	14.00	26a437199c@marketplace.amazon.com
+111-7597913-1622329	2026-02-12T20:39:04+00:00	Shipped	Notebook A5	NB-040	1	USD	7.50	26a437199c@marketplace.amazon.com
+111-9249722-4366669	2026-02-15T15:54:28+00:00	Shipped	Travel Mug	MUG-002	1	USD	24.00	a52dae62c0@marketplace.amazon.com
+111-9249722-4366669	2026-02-15T15:54:28+00:00	Shipped	Earl Grey 100g	TEA-011	1	USD	8.50	a52dae62c0@marketplace.amazon.com
+112-9451467-9268480	2026-02-15T22:58:43+00:00	Cancelled	Café Mug 350ml	MUG-001	1	USD	14.00	77e0bdd765@marketplace.amazon.com
+112-4403286-1059272	2026-02-16T05:27:23+00:00	Shipped	Earl Grey 100g	TEA-011	1	USD	8.50	340cbe188@marketplace.amazon.com
+112-4403286-1059272	2026-02-16T05:27:23+00:00	Shipped	Gel Pen 3-pack	PEN-041	1	USD	4.50	340cbe188@marketplace.amazon.com
+114-1759315-2397383	2026-02-16T12:50:39+00:00	Shipped	Canvas Tote	BAG-030	1	USD	18.00	4cb4522738@marketplace.amazon.com
+112-6832845-6430463	2026-02-18T01:38:10+00:00	Shipped	Ceramic Planter	PLT-060	1	USD	22.00	de467ba9e5@marketplace.amazon.com
+112-6832845-6430463	2026-02-18T01:38:10+00:00	Shipped	Café Mug 350ml	MUG-001	1	USD	14.00	de467ba9e5@marketplace.amazon.com
+113-8622050-2643963	2026-02-18T15:04:29+00:00	Shipped	Café Mug 350ml	MUG-001	1	USD	14.00	d46cfa28cf@marketplace.amazon.com
+113-8622050-2643963	2026-02-18T15:04:29+00:00	Shipped	Soy Candle	CND-050	1	USD	16.00	d46cfa28cf@marketplace.amazon.com
+112-4673288-5395611	2026-02-19T16:26:53+00:00	Shipped	Green Tea 100g	TEA-010	1	USD	9.50	d856fe4769@marketplace.amazon.com
+112-4673288-5395611	2026-02-19T16:26:53+00:00	Shipped	Travel Mug	MUG-002	1	USD	24.00	d856fe4769@marketplace.amazon.com
+113-3634568-5901010	2026-02-21T04:37:14+00:00	Shipped	Notebook A5	NB-040	1	USD	7.50	81c3101e2e@marketplace.amazon.com
+113-3634568-5901010	2026-02-21T04:37:14+00:00	Shipped	Travel Mug	MUG-002	2	USD	48.00	81c3101e2e@marketplace.amazon.com
+112-1976175-2833787	2026-02-22T01:49:40+00:00	Shipped	Gift Box	GFT-070	1	USD	45.00	a1fab6ad91@marketplace.amazon.com
+112-1976175-2833787	2026-02-22T01:49:40+00:00	Shipped	Notebook A5	NB-040	2	USD	15.00	a1fab6ad91@marketplace.amazon.com
+114-8101643-5298752	2026-02-22T13:04:24+00:00	Shipped	Green Tea 100g	TEA-010	1	USD	9.50	f8e978ce1@marketplace.amazon.com
+111-3909968-6628818	2026-02-22T17:52:23+00:00	Shipped	Travel Mug	MUG-002	1	USD	24.00	24461de017@marketplace.amazon.com
+111-3909968-6628818	2026-02-22T17:52:23+00:00	Shipped	Canvas Tote	BAG-030	1	USD	18.00	24461de017@marketplace.amazon.com
+114-7148229-4105895	2026-02-22T21:34:42+00:00	Shipped	Soy Candle	CND-050	3	USD	48.00	1bf52ef4a6@marketplace.amazon.com
+112-4161109-9818990	2026-02-23T15:47:46+00:00	Shipped	Gel Pen 3-pack	PEN-041	2	USD	9.00	8db6697d0a@marketplace.amazon.com
+112-4161109-9818990	2026-02-23T15:47:46+00:00	Shipped	Earl Grey 100g	TEA-011	1	USD	8.50	8db6697d0a@marketplace.amazon.com
+112-4161109-9818990	2026-02-23T15:47:46+00:00	Shipped	Green Tea 100g	TEA-010	2	USD	19.00	8db6697d0a@marketplace.amazon.com
+114-2248902-5194038	2026-02-25T04:10:49+00:00	Shipped	Canvas Tote	BAG-030	1	USD	18.00	4f544810de@marketplace.amazon.com
+111-8413185-6165171	2026-02-25T11:11:37+00:00	Shipped	Café Mug 350ml	MUG-001	1	USD	14.00	274282b6e4@marketplace.amazon.com
+112-7922203-4354702	2026-02-25T14:14:46+00:00	Shipped	Canvas Tote	BAG-030	1	USD	18.00	12387d5add@marketplace.amazon.com
+112-7922203-4354702	2026-02-25T14:14:46+00:00	Shipped	Earl Grey 100g	TEA-011	1	USD	8.50	12387d5add@marketplace.amazon.com
+113-8787307-9143364	2026-03-01T00:44:10+00:00	Shipped	Ceramic Planter	PLT-060	1	USD	22.00	6c6fa6681c@marketplace.amazon.com
+113-8787307-9143364	2026-03-01T00:44:10+00:00	Shipped	Ceramic Planter	PLT-060	1	USD	22.00	6c6fa6681c@marketplace.amazon.com
+113-8787307-9143364	2026-03-01T00:44:10+00:00	Shipped	Green Tea 100g	TEA-010	1	USD	9.50	6c6fa6681c@marketplace.amazon.com
+113-8787307-9143364	2026-03-01T00:44:10+00:00	Shipped	Gel Pen 3-pack	PEN-041	1	USD	4.50	6c6fa6681c@marketplace.amazon.com
+111-5467052-8215305	2026-03-01T03:46:01+00:00	Shipped	Travel Mug	MUG-002	1	USD	24.00	93ec94503e@marketplace.amazon.com
+113-3431212-7090096	2026-03-01T04:13:49+00:00	Shipped	Café Mug 350ml	MUG-001	3	USD	42.00	d25e24296e@marketplace.amazon.com
+111-9226851-9950140	2026-03-02T16:41:36+00:00	Shipped	Matcha 30g	TEA-012	1	USD	19.00	1cf2deb798@marketplace.amazon.com
+111-5652111-2046686	2026-03-03T06:31:03+00:00	Shipped	Green Tea 100g	TEA-010	2	USD	19.00	fe5528dc45@marketplace.amazon.com
+113-7577959-4076154	2026-03-03T09:46:46+00:00	Shipped	Earl Grey 100g	TEA-011	1	USD	8.50	54aa4946f4@marketplace.amazon.com
+114-5580400-5125991	2026-03-04T00:49:19+00:00	Shipped	Earl Grey 100g	TEA-011	1	USD	8.50	575256e276@marketplace.amazon.com
+113-3694157-5302460	2026-03-05T02:05:08+00:00	Shipped	Travel Mug	MUG-002	1	USD	24.00	673c73013b@marketplace.amazon.com
+113-8798444-7829609	2026-03-05T12:43:01+00:00	Shipped	Glass Teapot	POT-020	2	USD	64.00	680766699f@marketplace.amazon.com
+113-8798444-7829609	2026-03-05T12:43:01+00:00	Shipped	Green Tea 100g	TEA-010	3	USD	28.50	680766699f@marketplace.amazon.com
+113-8798444-7829609	2026-03-05T12:43:01+00:00	Shipped	Notebook A5	NB-040	1	USD	7.50	680766699f@marketplace.amazon.com
+113-8798444-7829609	2026-03-05T12:43:01+00:00	Shipped	Notebook A5	NB-040	1	USD	7.50	680766699f@marketplace.amazon.com
+111-2402399-8473546	2026-03-07T03:35:58+00:00	Shipped	Earl Grey 100g	TEA-011	1	USD	8.50	16f526d3b0@marketplace.amazon.com
+111-2402399-8473546	2026-03-07T03:35:58+00:00	Shipped	Canvas Tote	BAG-030	1	USD	18.00	16f526d3b0@marketplace.amazon.com
+113-4213032-2509387	2026-03-07T17:58:20+00:00	Shipped	Glass Teapot	POT-020	3	USD	96.00	4da00f80d4@marketplace.amazon.com
+113-4213032-2509387	2026-03-07T17:58:20+00:00	Shipped	Gift Box	GFT-070	1	USD	45.00	4da00f80d4@marketplace.amazon.com
+113-4213032-2509387	2026-03-07T17:58:20+00:00	Shipped	Earl Grey 100g	TEA-011	1	USD	8.50	4da00f80d4@marketplace.amazon.com
+113-5425123-9673362	2026-03-08T01:59:02+00:00	Shipped	Gel Pen 3-pack	PEN-041	1	USD	4.50	2ae48623dd@marketplace.amazon.com
+111-1472228-1756962	2026-03-08T07:44:23+00:00	Shipped	Canvas Tote	BAG-030	1	USD	18.00	595dcd0d40@marketplace.amazon.com
+111-1472228-1756962	2026-03-08T07:44:23+00:00	Shipped	Earl Grey 100g	TEA-011	1	USD	8.50	595dcd0d40@marketplace.amazon.com
+111-1472228-1756962	2026-03-08T07:44:23+00:00	Shipped	Glass Teapot	POT-020	1	USD	32.00	595dcd0d40@marketplace.amazon.com
+111-3127708-9482495	2026-03-08T18:21:02+00:00	Shipped	Travel Mug	MUG-002	1	USD	24.00	47c8a4ae21@marketplace.amazon.com
+112-3252801-1194661	2026-03-09T01:43:32+00:00	Shipped	Soy Candle	CND-050	1	USD	16.00	2404056d2b@marketplace.amazon.com
+112-3252801-1194661	2026-03-09T01:43:32+00:00	Shipped	Gift Box	GFT-070	1	USD	45.00	2404056d2b@marketplace.amazon.com
+112-3252801-1194661	2026-03-09T01:43:32+00:00	Shipped	Travel Mug	MUG-002	2	USD	48.00	2404056d2b@marketplace.amazon.com
+112-3963163-1659867	2026-03-09T08:20:51+00:00	Cancelled	Notebook A5	NB-040	2	USD	15.00	30a925de85@marketplace.amazon.com
+112-3963163-1659867	2026-03-09T08:20:51+00:00	Cancelled	Notebook A5	NB-040	2	USD	15.00	30a925de85@marketplace.amazon.com
+113-4950793-8566133	2026-03-09T09:23:22+00:00	Shipped	Notebook A5	NB-040	1	USD	7.50	955ea0942c@marketplace.amazon.com
+113-4950793-8566133	2026-03-09T09:23:22+00:00	Shipped	Earl Grey 100g	TEA-011	2	USD	17.00	955ea0942c@marketplace.amazon.com
+113-4950793-8566133	2026-03-09T09:23:22+00:00	Shipped	Gift Box	GFT-070	1	USD	45.00	955ea0942c@marketplace.amazon.com
+114-2328472-9012989	2026-03-09T11:39:28+00:00	Shipped	Soy Candle	CND-050	2	USD	32.00	20fbf3a106@marketplace.amazon.com
+114-2328472-9012989	2026-03-09T11:39:28+00:00	Shipped	Matcha 30g	TEA-012	1	USD	19.00	20fbf3a106@marketplace.amazon.com
+114-2328472-9012989	2026-03-09T11:39:28+00:00	Shipped	Café Mug 350ml	MUG-001	1	USD	14.00	20fbf3a106@marketplace.amazon.com
+112-1121097-7268704	2026-03-09T21:31:09+00:00	Shipped	Earl Grey 100g	TEA-011	1	USD	8.50	8fe1d55f85@marketplace.amazon.com
+112-1121097-7268704	2026-03-09T21:31:09+00:00	Shipped	Gel Pen 3-pack	PEN-041	1	USD	4.50	8fe1d55f85@marketplace.amazon.com
+113-7159129-8618181	2026-03-10T09:42:59+00:00	Shipped	Notebook A5	NB-040	2	USD	15.00	81a355ad05@marketplace.amazon.com
+113-7159129-8618181	2026-03-10T09:42:59+00:00	Shipped	Canvas Tote	BAG-030	1	USD	18.00	81a355ad05@marketplace.amazon.com
+113-3936226-2882928	2026-03-11T16:28:04+00:00	Shipped	Ceramic Planter	PLT-060	1	USD	22.00	c70992b886@marketplace.amazon.com
+111-2521139-7129645	2026-03-11T17:20:50+00:00	Shipped	Soy Candle	CND-050	2	USD	32.00	57f5ff3705@marketplace.amazon.com
+113-8740121-3793181	2026-03-12T00:57:17+00:00	Shipped	Notebook A5	NB-040	2	USD	15.00	eb9cf65e33@marketplace.amazon.com
+114-4697107-8482180	2026-03-12T16:28:41+00:00	Shipped	Notebook A5	NB-040	1	USD	7.50	e538cc0ca@marketplace.amazon.com
+114-4697107-8482180	2026-03-12T16:28:41+00:00	Shipped	Glass Teapot	POT-020	2	USD	64.00	e538cc0ca@marketplace.amazon.com
+114-9608821-7001942	2026-03-13T08:12:50+00:00	Shipped	Travel Mug	MUG-002	1	USD	24.00	8ae29de722@marketplace.amazon.com
+111-2098911-6115582	2026-03-13T10:06:39+00:00	Shipped	Green Tea 100g	TEA-010	1	USD	9.50	52b76a718@marketplace.amazon.com
+111-2098911-6115582	2026-03-13T10:06:39+00:00	Shipped	Soy Candle	CND-050	1	USD	16.00	52b76a718@marketplace.amazon.com
+111-9735042-2834023	2026-03-13T13:36:28+00:00	Shipped	Soy Candle	CND-050	1	USD	16.00	e0d3b6ef1b@marketplace.amazon.com
+114-4958384-8094564	2026-03-13T15:51:15+00:00	Shipped	Gift Box	GFT-070	1	USD	45.00	2c1b5829c9@marketplace.amazon.com
+111-4127564-4336572	2026-03-14T00:48:29+00:00	Shipped	Café Mug 350ml	MUG-001	1	USD	14.00	8f753e9662@marketplace.amazon.com
+111-4127564-4336572	2026-03-14T00:48:29+00:00	Shipped	Matcha 30g	TEA-012	1	USD	19.00	8f753e9662@marketplace.amazon.com
+111-4127564-4336572	2026-03-14T00:48:29+00:00	Shipped	Earl Grey 100g	TEA-011	1	USD	8.50	8f753e9662@marketplace.amazon.com
+113-5487442-7634639	2026-03-14T07:01:35+00:00	Shipped	Gel Pen 3-pack	PEN-041	1	USD	4.50	c771e4dc42@marketplace.amazon.com
+113-6051155-5554325	2026-03-15T08:01:00+00:00	Shipped	Matcha 30g	TEA-012	1	USD	19.00	5cb0377c52@marketplace.amazon.com
+114-3029477-1870370	2026-03-15T15:01:41+00:00	Shipped	Glass Teapot	POT-020	1	USD	32.00	98c08bd631@marketplace.amazon.com
+114-3029477-1870370	2026-03-15T15:01:41+00:00	Shipped	Matcha 30g	TEA-012	2	USD	38.00	98c08bd631@marketplace.amazon.com
+114-8684083-6101655	2026-03-16T00:06:30+00:00	Shipped	Travel Mug	MUG-002	1	USD	24.00	cae5f5cdc8@marketplace.amazon.com
+114-4444636-7716130	2026-03-16T22:42:08+00:00	Shipped	Café Mug 350ml	MUG-001	1	USD	14.00	1fd68a5d7@marketplace.amazon.com
+114-6439759-3026728	2026-03-17T23:53:56+00:00	Pending	Green Tea 100g	TEA-010	3	USD	28.50	8b937292e6@marketplace.amazon.com
+112-7961478-1403608	2026-03-18T11:10:09+00:00	Shipped	Café Mug 350ml	MUG-001	3	USD	42.00	61513ff9a9@marketplace.amazon.com
+113-9361693-7231009	2026-03-18T19:35:40+00:00	Shipped	Café Mug 350ml	MUG-001	2	USD	28.00	8ca9acf77@marketplace.amazon.com
+113-1135590-9685239	2026-03-18T23:50:37+00:00	Shipped	Glass Teapot	POT-020	2	USD	64.00	25ada517e3@marketplace.amazon.com
+112-9516717-4685993	2026-03-19T03:54:59+00:00	Shipped	Soy Candle	CND-050	1	USD	16.00	56af5a7636@marketplace.amazon.com
+112-9516717-4685993	2026-03-19T03:54:59+00:00	Shipped	Earl Grey 100g	TEA-011	2	USD	17.00	56af5a7636@marketplace.amazon.com
+113-9854875-3463932	2026-03-19T05:14:57+00:00	Shipped	Soy Candle	CND-050	1	USD	16.00	a472397201@marketplace.amazon.com
+113-6962255-6072192	2026-03-19T16:30:50+00:00	Shipped	Green Tea 100g	TEA-010	1	USD	9.50	fafa6e3743@marketplace.amazon.com
+113-6962255-6072192	2026-03-19T16:30:50+00:00	Shipped	Gift Box	GFT-070	3	USD	135.00	fafa6e3743@marketplace.amazon.com
+113-8604470-1458871	2026-03-20T14:16:14+00:00	Shipped	Canvas Tote	BAG-030	2	USD	36.00	a4a43101e4@marketplace.amazon.com
+112-5705338-1522998	2026-03-20T21:42:36+00:00	Shipped	Soy Candle	CND-050	1	USD	16.00	a0600fc79c@marketplace.amazon.com
+112-5705338-1522998	2026-03-20T21:42:36+00:00	Shipped	Earl Grey 100g	TEA-011	1	USD	8.50	a0600fc79c@marketplace.amazon.com
+111-7164902-9600893	2026-03-21T20:58:12+00:00	Shipped	Earl Grey 100g	TEA-011	2	USD	17.00	e27208838e@marketplace.amazon.com
+111-7164902-9600893	2026-03-21T20:58:12+00:00	Shipped	Gel Pen 3-pack	PEN-041	1	USD	4.50	e27208838e@marketplace.amazon.com
+111-4767293-1787936	2026-03-22T07:18:37+00:00	Shipped	Green Tea 100g	TEA-010	2	USD	19.00	886b893000@marketplace.amazon.com
+111-4767293-1787936	2026-03-22T07:18:37+00:00	Shipped	Gel Pen 3-pack	PEN-041	3	USD		886b893000@marketplace.amazon.com
+112-6381096-6780168	2026-03-22T23:27:02+00:00	Shipped	Travel Mug	MUG-002	1	USD	24.00	c506326b36@marketplace.amazon.com
+111-1014148-7027124	2026-03-23T16:14:00+00:00	Shipped	Glass Teapot	POT-020	1	USD	32.00	dd483edd69@marketplace.amazon.com
+111-1014148-7027124	2026-03-23T16:14:00+00:00	Shipped	Glass Teapot	POT-020	1	USD	32.00	dd483edd69@marketplace.amazon.com
+112-1581986-6317433	2026-03-23T18:08:14+00:00	Pending	Matcha 30g	TEA-012	1	USD	19.00	5f25dfac07@marketplace.amazon.com
+112-1581986-6317433	2026-03-23T18:08:14+00:00	Pending	Green Tea 100g	TEA-010	2	USD	19.00	5f25dfac07@marketplace.amazon.com
+114-7050592-5117989	2026-03-24T05:50:32+00:00	Shipped	Gel Pen 3-pack	PEN-041	1	USD	4.50	87c0e5d883@marketplace.amazon.com
+114-7050592-5117989	2026-03-24T05:50:32+00:00	Shipped	Earl Grey 100g	TEA-011	2	USD	17.00	87c0e5d883@marketplace.amazon.com
+113-2328918-8084001	2026-03-25T06:51:31+00:00	Shipped	Gel Pen 3-pack	PEN-041	1	USD	4.50	c384408e98@marketplace.amazon.com
+113-2328918-8084001	2026-03-25T06:51:31+00:00	Shipped	Green Tea 100g	TEA-010	1	USD	9.50	c384408e98@marketplace.amazon.com
+114-5780430-3585950	2026-03-27T01:32:08+00:00	Shipped	Gel Pen 3-pack	PEN-041	2	USD	9.00	cd7da80631@marketplace.amazon.com
+114-5780430-3585950	2026-03-27T01:32:08+00:00	Shipped	Soy Candle	CND-050	1	USD	16.00	cd7da80631@marketplace.amazon.com
+113-7422144-7812097	2026-03-28T01:41:22+00:00	Shipped	Travel Mug	MUG-002	1	USD	24.00	368b8ce7be@marketplace.amazon.com
+113-7422144-7812097	2026-03-28T01:41:22+00:00	Shipped	Matcha 30g	TEA-012	2	USD	38.00	368b8ce7be@marketplace.amazon.com
+113-7422144-7812097	2026-03-28T01:41:22+00:00	Shipped	Green Tea 100g	TEA-010	1	USD	9.50	368b8ce7be@marketplace.amazon.com
+111-3881241-9004743	2026-03-28T04:28:23+00:00	Shipped	Gift Box	GFT-070	1	USD	45.00	de67b41520@marketplace.amazon.com
+111-3881241-9004743	2026-03-28T04:28:23+00:00	Shipped	Earl Grey 100g	TEA-011	1	USD	8.50	de67b41520@marketplace.amazon.com
+111-3881241-9004743	2026-03-28T04:28:23+00:00	Shipped	Notebook A5	NB-040	1	USD	7.50	de67b41520@marketplace.amazon.com
+113-2470273-3098653	2026-03-28T04:44:18+00:00	Shipped	Notebook A5	NB-040	1	USD	7.50	1c30d867cd@marketplace.amazon.com
+114-3187332-3262755	2026-03-28T19:29:09+00:00	Shipped	Notebook A5	NB-040	1	USD	7.50	7c32b73d80@marketplace.amazon.com
+114-3187332-3262755	2026-03-28T19:29:09+00:00	Shipped	Canvas Tote	BAG-030	1	USD	18.00	7c32b73d80@marketplace.amazon.com
+114-3439136-8684648	2026-03-29T20:38:29+00:00	Cancelled	Matcha 30g	TEA-012	1	USD	19.00	127f31b78@marketplace.amazon.com
+114-3439136-8684648	2026-03-29T20:38:29+00:00	Cancelled	Notebook A5	NB-040	1	USD	7.50	127f31b78@marketplace.amazon.com
+114-3439136-8684648	2026-03-29T20:38:29+00:00	Cancelled	Soy Candle	CND-050	3	USD	48.00	127f31b78@marketplace.amazon.com
+111-5527477-7929728	2026-03-30T13:23:01+00:00	Shipped	Gel Pen 3-pack	PEN-041	1	USD	4.50	fcabdce0da@marketplace.amazon.com
+112-7633663-6687440	2026-03-30T17:41:56+00:00	Shipped	Gel Pen 3-pack	PEN-041	1	USD	4.50	abf544b28c@marketplace.amazon.com
+112-7633663-6687440	2026-03-30T17:41:56+00:00	Shipped	Soy Candle	CND-050	1	USD	16.00	abf544b28c@marketplace.amazon.com
+114-3297254-4342987	2026-03-31T13:57:27+00:00	Shipped	Earl Grey 100g	TEA-011	2	USD	17.00	4a61bba5fb@marketplace.amazon.com
+114-3297254-4342987	2026-03-31T13:57:27+00:00	Shipped	Green Tea 100g	TEA-010	1	USD	9.50	4a61bba5fb@marketplace.amazon.com
+113-1978112-5459646	2026-03-31T19:54:58+00:00	Shipped	Café Mug 350ml	MUG-001	1	USD	14.00	12bbfb1b71@marketplace.amazon.com
+113-4688530-5951988	2026-04-01T05:18:31+00:00	Shipped	Ceramic Planter	PLT-060	2	USD	44.00	cbca1fbff2@marketplace.amazon.com
+113-4688530-5951988	2026-04-01T05:18:31+00:00	Shipped	Canvas Tote	BAG-030	1	USD	18.00	cbca1fbff2@marketplace.amazon.com
+113-4688530-5951988	2026-04-01T05:18:31+00:00	Shipped	Glass Teapot	POT-020	1	USD	32.00	cbca1fbff2@marketplace.amazon.com
+112-7838023-2893232	2026-04-02T05:32:05+00:00	Shipped	Travel Mug	MUG-002	1	USD	24.00	1f5074ac13@marketplace.amazon.com
+112-7838023-2893232	2026-04-02T05:32:05+00:00	Shipped	Gel Pen 3-pack	PEN-041	1	USD	4.50	1f5074ac13@marketplace.amazon.com
+113-2960284-6255791	2026-04-03T17:53:44+00:00	Shipped	Gel Pen 3-pack	PEN-041	2	USD	9.00	7f20bc2fa0@marketplace.amazon.com
+114-2559399-1678438	2026-04-03T22:43:25+00:00	Shipped	Glass Teapot	POT-020	1	USD	32.00	76f9285706@marketplace.amazon.com
+114-2559399-1678438	2026-04-03T22:43:25+00:00	Shipped	Travel Mug	MUG-002	1	USD	24.00	76f9285706@marketplace.amazon.com
+114-2559399-1678438	2026-04-03T22:43:25+00:00	Shipped	Canvas Tote	BAG-030	1	USD	18.00	76f9285706@marketplace.amazon.com
+113-8602555-1726746	2026-04-04T01:02:41+00:00	Shipped	Travel Mug	MUG-002	2	USD	48.00	ec0d6dcb42@marketplace.amazon.com
+113-8602555-1726746	2026-04-04T01:02:41+00:00	Shipped	Earl Grey 100g	TEA-011	1	USD	8.50	ec0d6dcb42@marketplace.amazon.com
+114-1110521-5115720	2026-04-04T19:13:42+00:00	Shipped	Matcha 30g	TEA-012	1	USD	19.00	577942000a@marketplace.amazon.com
+112-3202464-9837269	2026-04-05T11:48:09+00:00	Shipped	Green Tea 100g	TEA-010	2	USD	19.00	8075072d6@marketplace.amazon.com
+112-3202464-9837269	2026-04-05T11:48:09+00:00	Shipped	Soy Candle	CND-050	2	USD	32.00	8075072d6@marketplace.amazon.com
+112-3202464-9837269	2026-04-05T11:48:09+00:00	Shipped	Matcha 30g	TEA-012	1	USD	19.00	8075072d6@marketplace.amazon.com
+113-9829103-7757085	2026-04-06T00:04:09+00:00	Shipped	Soy Candle	CND-050	1	USD	16.00	c784d99451@marketplace.amazon.com
+113-9829103-7757085	2026-04-06T00:04:09+00:00	Shipped	Canvas Tote	BAG-030	3	USD	54.00	c784d99451@marketplace.amazon.com
+112-4085098-1387572	2026-04-06T16:53:12+00:00	Shipped	Ceramic Planter	PLT-060	1	USD	22.00	a93c10871b@marketplace.amazon.com
+114-2517344-9399643	2026-04-08T22:52:06+00:00	Shipped	Matcha 30g	TEA-012	1	USD	19.00	95c75aec94@marketplace.amazon.com
+114-2517344-9399643	2026-04-08T22:52:06+00:00	Shipped	Green Tea 100g	TEA-010	1	USD	9.50	95c75aec94@marketplace.amazon.com
+114-2517344-9399643	2026-04-08T22:52:06+00:00	Shipped	Earl Grey 100g	TEA-011	2	USD	17.00	95c75aec94@marketplace.amazon.com
+111-9303225-1684371	2026-04-09T13:15:02+00:00	Shipped	Earl Grey 100g	TEA-011	1	USD	8.50	b5fd2336f4@marketplace.amazon.com
+111-9303225-1684371	2026-04-09T13:15:02+00:00	Shipped	Soy Candle	CND-050	2	USD	32.00	b5fd2336f4@marketplace.amazon.com
+113-8063478-6920923	2026-04-09T21:44:13+00:00	Cancelled	Travel Mug	MUG-002	1	USD	24.00	4bcc585b60@marketplace.amazon.com
+113-8582938-7176462	2026-04-10T01:29:58+00:00	Shipped	Travel Mug	MUG-002	2	USD	48.00	b1f2037633@marketplace.amazon.com
+114-6582152-8086125	2026-04-10T05:14:39+00:00	Shipped	Notebook A5	NB-040	1	USD	7.50	19d1fb55b1@marketplace.amazon.com
+113-7139188-4085559	2026-04-10T06:16:12+00:00	Shipped	Gel Pen 3-pack	PEN-041	1	USD	4.50	6b35e574e0@marketplace.amazon.com
+113-7139188-4085559	2026-04-10T06:16:12+00:00	Shipped	Earl Grey 100g	TEA-011	1	USD	8.50	6b35e574e0@marketplace.amazon.com
+113-7139188-4085559	2026-04-10T06:16:12+00:00	Shipped	Matcha 30g	TEA-012	3	USD	57.00	6b35e574e0@marketplace.amazon.com
+113-7998729-4009367	2026-04-10T11:05:44+00:00	Shipped	Café Mug 350ml	MUG-001	2	USD	28.00	a5b0167db8@marketplace.amazon.com
+113-9030449-8738351	2026-04-10T22:21:30+00:00	Shipped	Canvas Tote	BAG-030	1	USD	18.00	c4484204d5@marketplace.amazon.com
+112-7371999-7544296	2026-04-11T02:06:46+00:00	Shipped	Café Mug 350ml	MUG-001	2	USD	28.00	8725288a1b@marketplace.amazon.com
+112-7371999-7544296	2026-04-11T02:06:46+00:00	Shipped	Earl Grey 100g	TEA-011	1	USD	8.50	8725288a1b@marketplace.amazon.com
+113-4666931-5514342	2026-04-11T03:16:40+00:00	Shipped	Earl Grey 100g	TEA-011	1	USD	8.50	aebf0418a9@marketplace.amazon.com
+113-1097397-6526866	2026-04-11T16:33:31+00:00	Cancelled	Green Tea 100g	TEA-010	1	USD	9.50	9fa7faf009@marketplace.amazon.com
+113-1097397-6526866	2026-04-11T16:33:31+00:00	Cancelled	Notebook A5	NB-040	3	USD	22.50	9fa7faf009@marketplace.amazon.com
+111-6608665-5201173	2026-04-11T17:00:22+00:00	Shipped	Soy Candle	CND-050	2	USD	32.00	3d793c4fbf@marketplace.amazon.com
+113-7377917-6895814	2026-04-12T01:55:49+00:00	Shipped	Green Tea 100g	TEA-010	1	USD	9.50	9536770e04@marketplace.amazon.com
+113-7377917-6895814	2026-04-12T01:55:49+00:00	Shipped	Matcha 30g	TEA-012	1	USD	19.00	9536770e04@marketplace.amazon.com
+111-6716235-4493656	2026-04-12T02:41:14+00:00	Shipped	Matcha 30g	TEA-012	1	USD	19.00	6e9749d2b0@marketplace.amazon.com
+111-6716235-4493656	2026-04-12T02:41:14+00:00	Shipped	Notebook A5	NB-040	1	USD	7.50	6e9749d2b0@marketplace.amazon.com
+113-1793880-3488704	2026-04-12T10:11:30+00:00	Shipped	Canvas Tote	BAG-030	1	USD	18.00	f474b799ec@marketplace.amazon.com
+111-7069317-9061215	2026-04-13T21:29:13+00:00	Shipped	Notebook A5	NB-040	1	USD	7.50	42de4beb12@marketplace.amazon.com
+111-7069317-9061215	2026-04-13T21:29:13+00:00	Shipped	Gel Pen 3-pack	PEN-041	1	USD	4.50	42de4beb12@marketplace.amazon.com
+111-7069317-9061215	2026-04-13T21:29:13+00:00	Shipped	Green Tea 100g	TEA-010	1	USD	9.50	42de4beb12@marketplace.amazon.com
+112-8981122-8612468	2026-04-13T23:09:11+00:00	Shipped	Café Mug 350ml	MUG-001	2	USD	28.00	991453e17e@marketplace.amazon.com
+112-8981122-8612468	2026-04-13T23:09:11+00:00	Shipped	Green Tea 100g	TEA-010	1	USD	9.50	991453e17e@marketplace.amazon.com
+112-4513701-1789356	2026-04-14T00:11:10+00:00	Pending	Green Tea 100g	TEA-010	1	USD	9.50	e15bd972c7@marketplace.amazon.com
+114-4766824-1450300	2026-04-14T01:41:15+00:00	Shipped	Ceramic Planter	PLT-060	2	USD	44.00	43276e1d67@marketplace.amazon.com
+112-9735688-1380679	2026-04-14T10:35:36+00:00	Shipped	Ceramic Planter	PLT-060	1	USD	22.00	aef8360a87@marketplace.amazon.com
+112-9735688-1380679	2026-04-14T10:35:36+00:00	Shipped	Earl Grey 100g	TEA-011	1	USD	8.50	aef8360a87@marketplace.amazon.com
+111-4004727-7419516	2026-04-14T17:48:24+00:00	Shipped	Canvas Tote	BAG-030	1	USD	18.00	2753b3618b@marketplace.amazon.com
+113-7714837-6974321	2026-04-14T21:41:57+00:00	Shipped	Gift Box	GFT-070	1	USD	45.00	f39a690cad@marketplace.amazon.com
+113-7714837-6974321	2026-04-14T21:41:57+00:00	Shipped	Travel Mug	MUG-002	1	USD	24.00	f39a690cad@marketplace.amazon.com
+111-9756994-9812402	2026-04-15T02:14:28+00:00	Shipped	Canvas Tote	BAG-030	2	USD	36.00	17e272d7ca@marketplace.amazon.com
+114-7273997-4086613	2026-04-15T10:31:07+00:00	Shipped	Travel Mug	MUG-002	1	USD	24.00	797dcf60fd@marketplace.amazon.com
+112-3570227-1847581	2026-04-15T10:49:32+00:00	Shipped	Gel Pen 3-pack	PEN-041	1	USD	4.50	64ff5376a4@marketplace.amazon.com
+112-3570227-1847581	2026-04-15T10:49:32+00:00	Shipped	Café Mug 350ml	MUG-001	1	USD	14.00	64ff5376a4@marketplace.amazon.com
+111-3018016-9923120	2026-04-15T11:46:15+00:00	Shipped	Espresso Machine	ESP-090	1	USD	1249.00	4604db73f3@marketplace.amazon.com
+114-8548562-8534223	2026-04-15T20:14:08+00:00	Shipped	Gel Pen 3-pack	PEN-041	1	USD	4.50	53ba554e35@marketplace.amazon.com
+112-1312111-9660803	2026-04-17T14:22:28+00:00	Shipped	Notebook A5	NB-040	2	USD	15.00	7f93ac009a@marketplace.amazon.com
+112-4442468-1613249	2026-04-17T17:27:23+00:00	Shipped	Travel Mug	MUG-002	1	USD	24.00	ddb6b38fbc@marketplace.amazon.com
+112-4442468-1613249	2026-04-17T17:27:23+00:00	Shipped	Café Mug 350ml	MUG-001	2	USD	28.00	ddb6b38fbc@marketplace.amazon.com
+111-4875838-9919792	2026-04-18T06:40:55+00:00	Shipped	Green Tea 100g	TEA-010	1	USD	9.50	86317046b9@marketplace.amazon.com
+111-4875838-9919792	2026-04-18T06:40:55+00:00	Shipped	Travel Mug	MUG-002	1	USD	24.00	86317046b9@marketplace.amazon.com
+111-4875838-9919792	2026-04-18T06:40:55+00:00	Shipped	Earl Grey 100g	TEA-011	1	USD	8.50	86317046b9@marketplace.amazon.com
+112-2223240-8357303	2026-04-18T07:26:00+00:00	Shipped	Travel Mug	MUG-002	3	USD	72.00	72a016db34@marketplace.amazon.com
+112-2223240-8357303	2026-04-18T07:26:00+00:00	Shipped	Ceramic Planter	PLT-060	1	USD	22.00	72a016db34@marketplace.amazon.com
+113-8034775-7744488	2026-04-18T07:50:32+00:00	Shipped	Notebook A5	NB-040	1	USD	7.50	8db366ffd1@marketplace.amazon.com
+112-8932696-7528399	2026-04-18T13:13:38+00:00	Shipped	Travel Mug	MUG-002	1	USD	24.00	ef4fe66636@marketplace.amazon.com
+112-8943827-8763873	2026-04-18T15:43:05+00:00	Shipped	Soy Candle	CND-050	1	USD	16.00	6dbae27198@marketplace.amazon.com
+112-8943827-8763873	2026-04-18T15:43:05+00:00	Shipped	Earl Grey 100g	TEA-011	1	USD	8.50	6dbae27198@marketplace.amazon.com
+112-8943827-8763873	2026-04-18T15:43:05+00:00	Shipped	Ceramic Planter	PLT-060	2	USD	44.00	6dbae27198@marketplace.amazon.com
+111-7232188-6115785	2026-04-18T19:42:25+00:00	Pending	Café Mug 350ml	MUG-001	1	USD	14.00	4b4da273ed@marketplace.amazon.com
+111-7232188-6115785	2026-04-18T19:42:25+00:00	Pending	Gel Pen 3-pack	PEN-041	1	USD	4.50	4b4da273ed@marketplace.amazon.com
+114-9584338-3682671	2026-04-18T23:49:03+00:00	Shipped	Ceramic Planter	PLT-060	1	USD	22.00	b616f760a@marketplace.amazon.com
+112-3942041-3575047	2026-04-20T21:10:01+00:00	Shipped	Matcha 30g	TEA-012	1	USD	19.00	a1dee4b6d@marketplace.amazon.com
+111-7499457-9659168	2026-04-21T07:12:23+00:00	Shipped	Green Tea 100g	TEA-010	1	USD	9.50	cf66c7331@marketplace.amazon.com
+114-8984462-3622462	2026-04-21T13:11:35+00:00	Shipped	Canvas Tote	BAG-030	1	USD	18.00	436431cbbe@marketplace.amazon.com
+114-8984462-3622462	2026-04-21T13:11:35+00:00	Shipped	Notebook A5	NB-040	2	USD	15.00	436431cbbe@marketplace.amazon.com
+113-3416493-4064676	2026-04-21T22:34:03+00:00	Shipped	Ceramic Planter	PLT-060	1	USD	22.00	2716f1e5cb@marketplace.amazon.com
+112-3324928-4394202	2026-04-22T00:21:05+00:00	Shipped	Soy Candle	CND-050	2	USD	32.00	b04f1a84cb@marketplace.amazon.com
+112-3324928-4394202	2026-04-22T00:21:05+00:00	Shipped	Earl Grey 100g	TEA-011	2	USD	17.00	b04f1a84cb@marketplace.amazon.com
+112-3324928-4394202	2026-04-22T00:21:05+00:00	Shipped	Gel Pen 3-pack	PEN-041	1	USD	4.50	b04f1a84cb@marketplace.amazon.com
+111-2909863-6591559	2026-04-23T06:45:56+00:00	Shipped	Gift Box	GFT-070	2	USD	90.00	91b9720eec@marketplace.amazon.com
+111-2909863-6591559	2026-04-23T06:45:56+00:00	Shipped	Glass Teapot	POT-020	2	USD	64.00	91b9720eec@marketplace.amazon.com
+111-9151075-1334013	2026-04-23T09:33:14+00:00	Shipped	Canvas Tote	BAG-030	2	USD	36.00	15e581620f@marketplace.amazon.com
+113-8180005-4167286	2026-04-23T22:06:22+00:00	Shipped	Ceramic Planter	PLT-060	1	USD	22.00	d7e50ea3ec@marketplace.amazon.com
+113-8180005-4167286	2026-04-23T22:06:22+00:00	Shipped	Café Mug 350ml	MUG-001	1	USD	14.00	d7e50ea3ec@marketplace.amazon.com
+112-5875059-8388822	2026-04-24T01:08:15+00:00	Shipped	Café Mug 350ml	MUG-001	1	USD	14.00	e995ef8b1b@marketplace.amazon.com
+112-6110555-7824064	2026-04-24T01:11:58+00:00	Shipped	Glass Teapot	POT-020	3	USD	96.00	a2d8a5aa52@marketplace.amazon.com
+112-6110555-7824064	2026-04-24T01:11:58+00:00	Shipped	Green Tea 100g	TEA-010	3	USD	28.50	a2d8a5aa52@marketplace.amazon.com
+111-2379891-6504863	2026-04-24T10:40:08+00:00	Shipped	Canvas Tote	BAG-030	1	USD	18.00	48628103f0@marketplace.amazon.com
+111-2379891-6504863	2026-04-24T10:40:08+00:00	Shipped	Gift Box	GFT-070	1	USD	45.00	48628103f0@marketplace.amazon.com
+113-8360481-4237420	2026-04-24T15:25:26+00:00	Shipped	Travel Mug	MUG-002	2	USD	48.00	5b60b57717@marketplace.amazon.com
+113-8360481-4237420	2026-04-24T15:25:26+00:00	Shipped	Earl Grey 100g	TEA-011	1	USD	8.50	5b60b57717@marketplace.amazon.com
+113-8360481-4237420	2026-04-24T15:25:26+00:00	Shipped	Green Tea 100g	TEA-010	1	USD	9.50	5b60b57717@marketplace.amazon.com
+111-8081010-6768277	2026-04-24T19:42:48+00:00	Shipped	Gel Pen 3-pack	PEN-041	1	USD	4.50	a3334b92a2@marketplace.amazon.com
+112-6326702-2137730	2026-04-25T16:44:03+00:00	Shipped	Travel Mug	MUG-002	2	USD	48.00	b8f2d78d53@marketplace.amazon.com
+112-1816752-5747180	2026-04-26T09:31:01+00:00	Shipped	Matcha 30g	TEA-012	1	USD	19.00	be0e378b07@marketplace.amazon.com
+113-8293509-6775801	2026-04-26T13:51:42+00:00	Pending	Gift Box	GFT-070	1	USD	45.00	2952d986c@marketplace.amazon.com
+113-8293509-6775801	2026-04-26T13:51:42+00:00	Pending	Travel Mug	MUG-002	1	USD	24.00	2952d986c@marketplace.amazon.com
+114-9219319-9821818	2026-04-26T16:43:13+00:00	Shipped	Green Tea 100g	TEA-010	1	USD	9.50	41971df5fd@marketplace.amazon.com
+113-3076710-2428614	2026-04-26T20:32:12+00:00	Shipped	Gel Pen 3-pack	PEN-041	3	USD	13.50	8a9e63638c@marketplace.amazon.com
+113-3076710-2428614	2026-04-26T20:32:12+00:00	Shipped	Matcha 30g	TEA-012	2	USD	38.00	8a9e63638c@marketplace.amazon.com
+112-2542796-2589366	2026-04-27T02:27:38+00:00	Shipped	Gel Pen 3-pack	PEN-041	1	USD	4.50	1145fb3e8a@marketplace.amazon.com
+112-2542796-2589366	2026-04-27T02:27:38+00:00	Shipped	Glass Teapot	POT-020	2	USD	64.00	1145fb3e8a@marketplace.amazon.com
+112-2358267-6632022	2026-04-27T09:05:26+00:00	Shipped	Green Tea 100g	TEA-010	1	USD	9.50	830e082343@marketplace.amazon.com
+112-2358267-6632022	2026-04-27T09:05:26+00:00	Shipped	Earl Grey 100g	TEA-011	1	USD	8.50	830e082343@marketplace.amazon.com
+112-2358267-6632022	2026-04-27T09:05:26+00:00	Shipped	Café Mug 350ml	MUG-001	1	USD	14.00	830e082343@marketplace.amazon.com
+113-6555122-2471406	2026-04-27T20:11:30+00:00	Shipped	Travel Mug	MUG-002	1	USD	24.00	fe6abdb05a@marketplace.amazon.com
+112-5299058-6038238	2026-04-28T11:55:30+00:00	Shipped	Notebook A5	NB-040	1	USD	7.50	9166592d83@marketplace.amazon.com
+112-6064062-1110206	2026-04-30T16:27:29+00:00	Shipped	Café Mug 350ml	MUG-001	2	USD	28.00	3638cd9122@marketplace.amazon.com
+113-5369510-2030419	2026-04-30T23:40:22+00:00	Shipped	Café Mug 350ml	MUG-001	3	USD	42.00	2b94010dfe@marketplace.amazon.com
+113-5369510-2030419	2026-04-30T23:40:22+00:00	Shipped	Gel Pen 3-pack	PEN-041	1	USD	4.50	2b94010dfe@marketplace.amazon.com
+112-2494200-7172675	2026-05-01T10:16:40+00:00	Shipped	Notebook A5	NB-040	1	USD	7.50	1e9136d4ad@marketplace.amazon.com
+111-5021093-5244348	2026-05-02T07:06:40+00:00	Shipped	Green Tea 100g	TEA-010	2	USD	19.00	a34f2c386f@marketplace.amazon.com
+111-5021093-5244348	2026-05-02T07:06:40+00:00	Shipped	Travel Mug	MUG-002	2	USD	48.00	a34f2c386f@marketplace.amazon.com
+111-5021093-5244348	2026-05-02T07:06:40+00:00	Shipped	Soy Candle	CND-050	1	USD	16.00	a34f2c386f@marketplace.amazon.com
+111-4289790-7645223	2026-05-02T07:55:33+00:00	Shipped	Earl Grey 100g	TEA-011	1	USD	8.50	9147003fcf@marketplace.amazon.com
+111-4289790-7645223	2026-05-02T07:55:33+00:00	Shipped	Notebook A5	NB-040	1	USD	7.50	9147003fcf@marketplace.amazon.com
+112-7498324-7266039	2026-05-02T20:59:43+00:00	Shipped	Green Tea 100g	TEA-010	1	USD	9.50	31b8463413@marketplace.amazon.com
+112-7498324-7266039	2026-05-02T20:59:43+00:00	Shipped	Matcha 30g	TEA-012	1	USD	19.00	31b8463413@marketplace.amazon.com
+112-7498324-7266039	2026-05-02T20:59:43+00:00	Shipped	Travel Mug	MUG-002	1	USD	24.00	31b8463413@marketplace.amazon.com
+111-2783941-2915617	2026-05-03T03:51:57+00:00	Shipped	Café Mug 350ml	MUG-001	1	USD	14.00	9dcc96bf43@marketplace.amazon.com
+113-4874049-4895376	2026-05-03T06:45:41+00:00	Shipped	Notebook A5	NB-040	1	USD	7.50	5b06ad7920@marketplace.amazon.com
+114-6792344-7786479	2026-05-04T06:30:47+00:00	Shipped	Café Mug 350ml	MUG-001	1	USD	14.00	4de1878e93@marketplace.amazon.com
+113-2062698-7501017	2026-05-04T14:11:43+00:00	Shipped	Travel Mug	MUG-002	1	USD	24.00	7faee7c7a5@marketplace.amazon.com
+113-2062698-7501017	2026-05-04T14:11:43+00:00	Shipped	Earl Grey 100g	TEA-011	1	USD	8.50	7faee7c7a5@marketplace.amazon.com
+111-6964596-3582322	2026-05-05T09:02:12+00:00	Shipped	Earl Grey 100g	TEA-011	1	USD	8.50	1bca9d8831@marketplace.amazon.com
+113-3077237-1800824	2026-05-05T16:07:11+00:00	Shipped	Green Tea 100g	TEA-010	1	USD	9.50	1ff0fbdb65@marketplace.amazon.com
+113-3077237-1800824	2026-05-05T16:07:11+00:00	Shipped	Earl Grey 100g	TEA-011	3	USD	25.50	1ff0fbdb65@marketplace.amazon.com
+113-9162175-2423756	2026-05-06T05:56:32+00:00	Shipped	Travel Mug	MUG-002	1	USD	24.00	bc701fb3ea@marketplace.amazon.com
+112-3811450-6660436	2026-05-06T10:06:44+00:00	Shipped	Soy Candle	CND-050	1	USD	16.00	929cc05b67@marketplace.amazon.com
+112-3811450-6660436	2026-05-06T10:06:44+00:00	Shipped	Travel Mug	MUG-002	1	USD	24.00	929cc05b67@marketplace.amazon.com
+114-4018342-4904421	2026-05-06T10:39:56+00:00	Shipped	Travel Mug	MUG-002	1	USD	24.00	31fab0a15d@marketplace.amazon.com
+113-8696054-8165129	2026-05-07T12:23:51+00:00	Shipped	Matcha 30g	TEA-012	1	USD	19.00	ca2ab403f6@marketplace.amazon.com
+111-9621249-4251673	2026-05-07T13:37:17+00:00	Shipped	Canvas Tote	BAG-030	1	USD	18.00	c32ee94ed9@marketplace.amazon.com
+111-4434507-3322064	2026-05-09T00:36:52+00:00	Pending	Notebook A5	NB-040	1	USD	7.50	8a3d170879@marketplace.amazon.com
+114-2961940-9301178	2026-05-09T01:05:52+00:00	Shipped	Notebook A5	NB-040	1	USD	7.50	58a56c0a56@marketplace.amazon.com
+114-2961940-9301178	2026-05-09T01:05:52+00:00	Shipped	Green Tea 100g	TEA-010	1	USD	9.50	58a56c0a56@marketplace.amazon.com
+113-9466446-6031638	2026-05-09T13:20:58+00:00	Shipped	Earl Grey 100g	TEA-011	1	USD	8.50	508a3a0129@marketplace.amazon.com
+113-7983050-8986164	2026-05-09T14:10:40+00:00	Shipped	Green Tea 100g	TEA-010	1	USD	9.50	2434c6ea9b@marketplace.amazon.com
+113-7983050-8986164	2026-05-09T14:10:40+00:00	Shipped	Glass Teapot	POT-020	1	USD	32.00	2434c6ea9b@marketplace.amazon.com
+113-7983050-8986164	2026-05-09T14:10:40+00:00	Shipped	Notebook A5	NB-040	1	USD	7.50	2434c6ea9b@marketplace.amazon.com
+114-3499027-4908850	2026-05-09T22:05:52+00:00	Cancelled	Earl Grey 100g	TEA-011	1	USD	8.50	bc0970d09d@marketplace.amazon.com
+114-6911017-6287423	2026-05-10T12:00:39+00:00	Shipped	Earl Grey 100g	TEA-011	1	USD	8.50	53ff31950a@marketplace.amazon.com
+112-3719990-3426109	2026-05-10T19:33:21+00:00	Shipped	Green Tea 100g	TEA-010	1	USD	9.50	db648be8a@marketplace.amazon.com
+112-3719990-3426109	2026-05-10T19:33:21+00:00	Shipped	Gift Box	GFT-070	1	USD	45.00	db648be8a@marketplace.amazon.com
+112-8639301-7042962	2026-05-11T00:49:01+00:00	Cancelled	Green Tea 100g	TEA-010	2	USD	19.00	c417d71fc0@marketplace.amazon.com
+111-6242875-1885405	2026-05-11T11:25:21+00:00	Shipped	Earl Grey 100g	TEA-011	1	USD	8.50	c788f7f097@marketplace.amazon.com
+113-3543551-6533643	2026-05-11T14:41:51+00:00	Shipped	Notebook A5	NB-040	2	USD	15.00	931b9fae@marketplace.amazon.com
+113-3543551-6533643	2026-05-11T14:41:51+00:00	Shipped	Earl Grey 100g	TEA-011	1	USD	8.50	931b9fae@marketplace.amazon.com
+114-6555698-6631448	2026-05-12T02:57:19+00:00	Shipped	Café Mug 350ml	MUG-001	2	USD	28.00	546b2f9d47@marketplace.amazon.com
+114-2918019-8766314	2026-05-12T09:31:24+00:00	Shipped	Travel Mug	MUG-002	3	USD	72.00	d218ffd8ad@marketplace.amazon.com
+114-2918019-8766314	2026-05-12T09:31:24+00:00	Shipped	Café Mug 350ml	MUG-001	1	USD	14.00	d218ffd8ad@marketplace.amazon.com
+113-6726640-4140556	2026-05-12T11:59:11+00:00	Shipped	Green Tea 100g	TEA-010	1	USD	9.50	bf140642a8@marketplace.amazon.com
+113-6726640-4140556	2026-05-12T11:59:11+00:00	Shipped	Earl Grey 100g	TEA-011	1	USD	8.50	bf140642a8@marketplace.amazon.com
+114-8349399-9768819	2026-05-12T18:53:25+00:00	Shipped	Earl Grey 100g	TEA-011	1	USD	8.50	1e15c2f297@marketplace.amazon.com
+114-2690268-6459913	2026-05-13T02:26:12+00:00	Shipped	Matcha 30g	TEA-012	1	USD	19.00	42dca1adcc@marketplace.amazon.com
+114-7267268-2779557	2026-05-14T02:58:31+00:00	Shipped	Earl Grey 100g	TEA-011	1	USD	8.50	7275dd459@marketplace.amazon.com
+112-2096569-3151617	2026-05-14T09:30:55+00:00	Shipped	Soy Candle	CND-050	2	USD	32.00	42209f4ff2@marketplace.amazon.com
+112-2096569-3151617	2026-05-14T09:30:55+00:00	Shipped	Notebook A5	NB-040	1	USD	7.50	42209f4ff2@marketplace.amazon.com
+111-5528994-4956154	2026-05-14T23:06:34+00:00	Shipped	Travel Mug	MUG-002	3	USD	72.00	61db370ca7@marketplace.amazon.com
+113-3102926-4520547	2026-05-15T06:43:42+00:00	Shipped	Gel Pen 3-pack	PEN-041	1	USD	4.50	6c141f746e@marketplace.amazon.com
+113-3102926-4520547	2026-05-15T06:43:42+00:00	Shipped	Café Mug 350ml	MUG-001	1	USD	14.00	6c141f746e@marketplace.amazon.com
+113-3102926-4520547	2026-05-15T06:43:42+00:00	Shipped	Earl Grey 100g	TEA-011	1	USD	8.50	6c141f746e@marketplace.amazon.com
+114-7994796-3732048	2026-05-15T10:21:38+00:00	Shipped	Earl Grey 100g	TEA-011	3	USD	25.50	7c208b326a@marketplace.amazon.com
+114-7994796-3732048	2026-05-15T10:21:38+00:00	Shipped	Matcha 30g	TEA-012	1	USD	19.00	7c208b326a@marketplace.amazon.com
+114-7994796-3732048	2026-05-15T10:21:38+00:00	Shipped	Notebook A5	NB-040	1	USD	7.50	7c208b326a@marketplace.amazon.com
+113-9577712-3595683	2026-05-15T12:59:04+00:00	Shipped	Travel Mug	MUG-002	1	USD	24.00	5b75dacbbe@marketplace.amazon.com
+114-6966385-6241884	2026-05-15T14:30:07+00:00	Shipped	Gel Pen 3-pack	PEN-041	1	USD	4.50	b632b9c542@marketplace.amazon.com
+114-6966385-6241884	2026-05-15T14:30:07+00:00	Shipped	Ceramic Planter	PLT-060	2	USD	44.00	b632b9c542@marketplace.amazon.com
+114-6966385-6241884	2026-05-15T14:30:07+00:00	Shipped	Matcha 30g	TEA-012	1	USD	19.00	b632b9c542@marketplace.amazon.com
+112-6636598-9333769	2026-05-15T17:15:57+00:00	Shipped	Travel Mug	MUG-002	1	USD	24.00	aac3d0bde3@marketplace.amazon.com
+114-2361450-2300622	2026-05-17T15:41:05+00:00	Shipped	Earl Grey 100g	TEA-011	1	USD	8.50	d5e47f9c7e@marketplace.amazon.com
+114-2361450-2300622	2026-05-17T15:41:05+00:00	Shipped	Gift Box	GFT-070	1	USD	45.00	d5e47f9c7e@marketplace.amazon.com
+114-2361450-2300622	2026-05-17T15:41:05+00:00	Shipped	Canvas Tote	BAG-030	1	USD	18.00	d5e47f9c7e@marketplace.amazon.com
+111-8630962-8780612	2026-05-17T15:42:10+00:00	Shipped	Travel Mug	MUG-002	2	USD	48.00	b4dfcb821b@marketplace.amazon.com
+111-8630962-8780612	2026-05-17T15:42:10+00:00	Shipped	Canvas Tote	BAG-030	1	USD	18.00	b4dfcb821b@marketplace.amazon.com
+111-6053293-6836014	2026-05-19T19:22:20+00:00	Shipped	Travel Mug	MUG-002	1	USD	24.00	3c8ec61be5@marketplace.amazon.com
+112-9207960-7522436	2026-05-20T04:47:50+00:00	Shipped	Earl Grey 100g	TEA-011	3	USD	25.50	a48a619e64@marketplace.amazon.com
+114-7993768-7044085	2026-05-20T16:52:04+00:00	Shipped	Canvas Tote	BAG-030	1	USD	18.00	f8ccbcbf4b@marketplace.amazon.com
+114-4890733-2018455	2026-05-20T22:51:59+00:00	Shipped	Matcha 30g	TEA-012	1	USD	19.00	936c087d6c@marketplace.amazon.com
+112-9732032-5763519	2026-05-21T00:39:39+00:00	Shipped	Matcha 30g	TEA-012	2	USD	38.00	8d82fce908@marketplace.amazon.com
+111-4789081-1055488	2026-05-21T10:32:26+00:00	Shipped	Travel Mug	MUG-002	1	USD	24.00	d1b0736dd1@marketplace.amazon.com
+111-4789081-1055488	2026-05-21T10:32:26+00:00	Shipped	Gift Box	GFT-070	1	USD	45.00	d1b0736dd1@marketplace.amazon.com
+114-7972774-8423991	2026-05-21T10:51:31+00:00	Shipped	Notebook A5	NB-040	1	USD	7.50	bace40924a@marketplace.amazon.com
+114-7972774-8423991	2026-05-21T10:51:31+00:00	Shipped	Soy Candle	CND-050	1	USD	16.00	bace40924a@marketplace.amazon.com
+111-2885284-1914996	2026-05-21T13:12:08+00:00	Shipped	Soy Candle	CND-050	2	USD	32.00	ed9efa0407@marketplace.amazon.com
+113-1911435-5435820	2026-05-22T10:55:11+00:00	Shipped	Earl Grey 100g	TEA-011	1	USD	8.50	d1db1ce86@marketplace.amazon.com
+113-4469169-4845464	2026-05-22T14:51:51+00:00	Shipped	Green Tea 100g	TEA-010	2	USD	19.00	d63fec0a37@marketplace.amazon.com
+113-4469169-4845464	2026-05-22T14:51:51+00:00	Shipped	Travel Mug	MUG-002	1	USD	24.00	d63fec0a37@marketplace.amazon.com
+111-5249882-9073692	2026-05-24T01:08:55+00:00	Shipped	Soy Candle	CND-050	1	USD	16.00	5c32df8d45@marketplace.amazon.com
+114-3165880-3907342	2026-05-24T17:49:28+00:00	Shipped	Gel Pen 3-pack	PEN-041	2	USD	9.00	7d9b125dfb@marketplace.amazon.com
+112-4782209-6376490	2026-05-25T04:56:30+00:00	Shipped	Earl Grey 100g	TEA-011	1	USD	8.50	8044719067@marketplace.amazon.com
+112-4782209-6376490	2026-05-25T04:56:30+00:00	Shipped	Green Tea 100g	TEA-010	1	USD	9.50	8044719067@marketplace.amazon.com
+112-4782209-6376490	2026-05-25T04:56:30+00:00	Shipped	Matcha 30g	TEA-012	2	USD	38.00	8044719067@marketplace.amazon.com
+112-8417300-6682181	2026-05-25T11:52:05+00:00	Shipped	Travel Mug	MUG-002	1	USD	24.00	7abb4ccb14@marketplace.amazon.com
+112-6769431-5811072	2026-05-26T03:02:29+00:00	Shipped	Ceramic Planter	PLT-060	1	USD	22.00	b0022111e5@marketplace.amazon.com
+112-6769431-5811072	2026-05-26T03:02:29+00:00	Shipped	Café Mug 350ml	MUG-001	1	USD	14.00	b0022111e5@marketplace.amazon.com
+112-7883963-6358628	2026-05-27T13:11:08+00:00	Shipped	Green Tea 100g	TEA-010	1	USD	9.50	bcdf9e1425@marketplace.amazon.com
+112-9245659-8225630	2026-05-29T08:14:01+00:00	Shipped	Gel Pen 3-pack	PEN-041	1	USD	4.50	63b739a28a@marketplace.amazon.com
+112-9245659-8225630	2026-05-29T08:14:01+00:00	Shipped	Earl Grey 100g	TEA-011	1	USD	8.50	63b739a28a@marketplace.amazon.com
+113-6454109-9563838	2026-05-29T11:36:56+00:00	Shipped	Earl Grey 100g	TEA-011	1	USD	8.50	72bc8cfa8f@marketplace.amazon.com
+114-8578973-1701154	2026-05-29T17:52:17+00:00	Shipped	Green Tea 100g	TEA-010	3	USD	28.50	f676f36fc7@marketplace.amazon.com
+114-8578973-1701154	2026-05-29T17:52:17+00:00	Shipped	Café Mug 350ml	MUG-001	2	USD	28.00	f676f36fc7@marketplace.amazon.com
+112-4355853-4100124	2026-05-29T19:08:16+00:00	Shipped	Soy Candle	CND-050	2	USD	32.00	17077d8688@marketplace.amazon.com
+112-3217764-6639966	2026-05-30T09:42:40+00:00	Shipped	Matcha 30g	TEA-012	1	USD	19.00	be9249ee3a@marketplace.amazon.com
+114-3646667-1262233	2026-05-31T02:46:07+00:00	Shipped	Travel Mug	MUG-002	1	USD	24.00	114aa3ca3@marketplace.amazon.com
+112-9191918-2599943	2026-05-31T09:30:25+00:00	Shipped	Gel Pen 3-pack	PEN-041	2	USD	9.00	94ce6928b@marketplace.amazon.com
+112-9191918-2599943	2026-05-31T09:30:25+00:00	Shipped	Green Tea 100g	TEA-010	2	USD	19.00	94ce6928b@marketplace.amazon.com
+112-9191918-2599943	2026-05-31T09:30:25+00:00	Shipped	Earl Grey 100g	TEA-011	2	USD	17.00	94ce6928b@marketplace.amazon.com
+114-9346913-3958222	2026-05-31T22:59:33+00:00	Shipped	Notebook A5	NB-040	1	USD	7.50	bec344cf0@marketplace.amazon.com
+112-7956372-7946457	2026-05-31T23:25:37+00:00	Shipped	Glass Teapot	POT-020	1	USD	32.00	8f5982aa44@marketplace.amazon.com
+112-7956372-7946457	2026-05-31T23:25:37+00:00	Shipped	Notebook A5	NB-040	1	USD	7.50	8f5982aa44@marketplace.amazon.com
+112-7956372-7946457	2026-05-31T23:25:37+00:00	Shipped	Café Mug 350ml	MUG-001	1	USD	14.00	8f5982aa44@marketplace.amazon.com
+111-2776570-2709062	2026-06-01T07:37:03+00:00	Shipped	Travel Mug	MUG-002	1	USD	24.00	810abe8257@marketplace.amazon.com
+113-7562471-8736118	2026-06-01T19:42:21+00:00	Shipped	Notebook A5	NB-040	2	USD	15.00	3dbfc46c0e@marketplace.amazon.com
+113-7562471-8736118	2026-06-01T19:42:21+00:00	Shipped	Matcha 30g	TEA-012	1	USD	19.00	3dbfc46c0e@marketplace.amazon.com
+113-7562471-8736118	2026-06-01T19:42:21+00:00	Shipped	Gift Box	GFT-070	1	USD	45.00	3dbfc46c0e@marketplace.amazon.com
+114-2631802-8643434	2026-06-01T19:49:47+00:00	Shipped	Earl Grey 100g	TEA-011	2	USD	17.00	b5a4f89e23@marketplace.amazon.com
+114-2631802-8643434	2026-06-01T19:49:47+00:00	Shipped	Travel Mug	MUG-002	2	USD	48.00	b5a4f89e23@marketplace.amazon.com
+112-6877681-6019770	2026-06-02T06:50:51+00:00	Shipped	Matcha 30g	TEA-012	1	USD	19.00	d0c8e7f2f6@marketplace.amazon.com
+112-6877681-6019770	2026-06-02T06:50:51+00:00	Shipped	Matcha 30g	TEA-012	1	USD	19.00	d0c8e7f2f6@marketplace.amazon.com
+112-6877681-6019770	2026-06-02T06:50:51+00:00	Shipped	Earl Grey 100g	TEA-011	1	USD	8.50	d0c8e7f2f6@marketplace.amazon.com
+112-6877681-6019770	2026-06-02T06:50:51+00:00	Shipped	Café Mug 350ml	MUG-001	1	USD	14.00	d0c8e7f2f6@marketplace.amazon.com
+114-4154127-2148634	2026-06-02T19:14:55+00:00	Shipped	Earl Grey 100g	TEA-011	1	USD	8.50	1c4a22eae9@marketplace.amazon.com
+114-4154127-2148634	2026-06-02T19:14:55+00:00	Shipped	Notebook A5	NB-040	1	USD	7.50	1c4a22eae9@marketplace.amazon.com
+114-4154127-2148634	2026-06-02T19:14:55+00:00	Shipped	Green Tea 100g	TEA-010	1	USD	9.50	1c4a22eae9@marketplace.amazon.com
+113-1332781-7908201	2026-06-02T23:37:20+00:00	Shipped	Glass Teapot	POT-020	1	USD	32.00	adde0bde18@marketplace.amazon.com
+113-1332781-7908201	2026-06-02T23:37:20+00:00	Shipped	Notebook A5	NB-040	1	USD	7.50	adde0bde18@marketplace.amazon.com
+111-1621473-6692259	2026-06-03T06:00:15+00:00	Shipped	Earl Grey 100g	TEA-011	1	USD	8.50	b8c9abda91@marketplace.amazon.com
+114-6492998-9292896	2026-06-03T14:17:17+00:00	Shipped	Gel Pen 3-pack	PEN-041	2	USD	9.00	170fbd4c81@marketplace.amazon.com
+112-1820721-4101100	2026-06-04T12:10:54+00:00	Shipped	Travel Mug	MUG-002	1	USD	24.00	59a73d2746@marketplace.amazon.com
+114-2089275-5912917	2026-06-04T12:41:59+00:00	Shipped	Green Tea 100g	TEA-010	1	USD	9.50	b11f3cea1d@marketplace.amazon.com
+114-9309504-5035113	2026-06-04T16:24:30+00:00	Shipped	Notebook A5	NB-040	1	USD	7.50	3c0c9c3ed@marketplace.amazon.com
+114-9309504-5035113	2026-06-04T16:24:30+00:00	Shipped	Travel Mug	MUG-002	1	USD	24.00	3c0c9c3ed@marketplace.amazon.com
+114-9309504-5035113	2026-06-04T16:24:30+00:00	Shipped	Earl Grey 100g	TEA-011	1	USD	8.50	3c0c9c3ed@marketplace.amazon.com
+114-3446428-8389750	2026-06-04T17:27:57+00:00	Shipped	Notebook A5	NB-040	1	USD	7.50	3bd173b70b@marketplace.amazon.com
+113-5038654-4589118	2026-06-05T09:58:01+00:00	Shipped	Green Tea 100g	TEA-010	3	USD	28.50	ed8cdc718d@marketplace.amazon.com
+113-5038654-4589118	2026-06-05T09:58:01+00:00	Shipped	Earl Grey 100g	TEA-011	1	USD	8.50	ed8cdc718d@marketplace.amazon.com
+113-5038654-4589118	2026-06-05T09:58:01+00:00	Shipped	Notebook A5	NB-040	3	USD	22.50	ed8cdc718d@marketplace.amazon.com
+113-4333024-2415979	2026-06-05T12:10:50+00:00	Shipped	Ceramic Planter	PLT-060	2	USD	44.00	642e904b5c@marketplace.amazon.com
+113-4333024-2415979	2026-06-05T12:10:50+00:00	Shipped	Glass Teapot	POT-020	2	USD	64.00	642e904b5c@marketplace.amazon.com
+111-2068131-6666248	2026-06-05T16:26:14+00:00	Shipped	Matcha 30g	TEA-012	1	USD	19.00	3a9e189a98@marketplace.amazon.com
+112-5819919-2560439	2026-06-06T07:40:43+00:00	Shipped	Café Mug 350ml	MUG-001	2	USD	28.00	d2bfb0942c@marketplace.amazon.com
+111-3093190-8762692	2026-06-07T08:45:53+00:00	Shipped	Glass Teapot	POT-020	1	USD	32.00	713167d947@marketplace.amazon.com
+111-9941274-5243311	2026-06-08T15:22:59+00:00	Shipped	Ceramic Planter	PLT-060	1	USD	22.00	74e212f7e1@marketplace.amazon.com
+113-2810117-1320081	2026-06-09T07:13:31+00:00	Shipped	Glass Teapot	POT-020	1	USD	32.00	a6e226a768@marketplace.amazon.com
+113-2810117-1320081	2026-06-09T07:13:31+00:00	Shipped	Gift Box	GFT-070	1	USD	45.00	a6e226a768@marketplace.amazon.com
+111-2871488-3929534	2026-06-10T03:55:14+00:00	Shipped	Earl Grey 100g	TEA-011	2	USD	17.00	26bd2cf4eb@marketplace.amazon.com
+111-2871488-3929534	2026-06-10T03:55:14+00:00	Shipped	Green Tea 100g	TEA-010	1	USD	9.50	26bd2cf4eb@marketplace.amazon.com
+111-2871488-3929534	2026-06-10T03:55:14+00:00	Shipped	Soy Candle	CND-050	1	USD	16.00	26bd2cf4eb@marketplace.amazon.com
+114-4016499-8623472	2026-06-10T12:08:04+00:00	Shipped	Earl Grey 100g	TEA-011	1	USD	8.50	d18d532691@marketplace.amazon.com
+114-4016499-8623472	2026-06-10T12:08:04+00:00	Shipped	Notebook A5	NB-040	1	USD	7.50	d18d532691@marketplace.amazon.com
+113-6276424-1530633	2026-06-11T04:01:14+00:00	Shipped	Green Tea 100g	TEA-010	2	USD	19.00	7f16386137@marketplace.amazon.com
+114-9072800-6195935	2026-06-12T00:51:39+00:00	Shipped	Earl Grey 100g	TEA-011	1	USD	8.50	56e6793a4b@marketplace.amazon.com
+114-9072800-6195935	2026-06-12T00:51:39+00:00	Shipped	Canvas Tote	BAG-030	2	USD	36.00	56e6793a4b@marketplace.amazon.com
+113-8832877-1774096	2026-06-12T06:01:56+00:00	Shipped	Green Tea 100g	TEA-010	1	USD	9.50	a8c4246277@marketplace.amazon.com
+113-8832877-1774096	2026-06-12T06:01:56+00:00	Shipped	Earl Grey 100g	TEA-011	1	USD	8.50	a8c4246277@marketplace.amazon.com
+113-8832877-1774096	2026-06-12T06:01:56+00:00	Shipped	Travel Mug	MUG-002	1	USD	24.00	a8c4246277@marketplace.amazon.com
+114-2420156-9951380	2026-06-14T14:15:28+00:00	Shipped	Earl Grey 100g	TEA-011	2	USD	17.00	9666dc3989@marketplace.amazon.com
+113-3889156-6111753	2026-06-14T21:37:13+00:00	Shipped	Travel Mug	MUG-002	1	USD	24.00	1ed087edcb@marketplace.amazon.com
+111-3139695-2040224	2026-06-14T22:53:26+00:00	Shipped	Canvas Tote	BAG-030	1	USD	18.00	e71219097@marketplace.amazon.com
+114-6468907-8030765	2026-06-15T16:38:15+00:00	Shipped	Glass Teapot	POT-020	1	USD	32.00	e5ad463549@marketplace.amazon.com
+114-2512963-5195684	2026-06-15T19:10:43+00:00	Shipped	Gel Pen 3-pack	PEN-041	1	USD	4.50	e8a6091ad0@marketplace.amazon.com
+114-2512963-5195684	2026-06-15T19:10:43+00:00	Shipped	Travel Mug	MUG-002	1	USD	24.00	e8a6091ad0@marketplace.amazon.com
+114-2512963-5195684	2026-06-15T19:10:43+00:00	Shipped	Earl Grey 100g	TEA-011	1	USD	8.50	e8a6091ad0@marketplace.amazon.com
+112-5250268-5942041	2026-06-15T19:54:45+00:00	Shipped	Earl Grey 100g	TEA-011	3	USD	25.50	13efa9a0a3@marketplace.amazon.com
+112-5250268-5942041	2026-06-15T19:54:45+00:00	Shipped	Gel Pen 3-pack	PEN-041	1	USD	4.50	13efa9a0a3@marketplace.amazon.com
+112-5250268-5942041	2026-06-15T19:54:45+00:00	Shipped	Notebook A5	NB-040	2	USD	15.00	13efa9a0a3@marketplace.amazon.com
+113-9234347-4068080	2026-06-15T23:27:19+00:00	Pending	Earl Grey 100g	TEA-011	2	USD	17.00	82ea7f6c7d@marketplace.amazon.com
+113-1499339-8425238	2026-06-16T03:14:11+00:00	Shipped	Ceramic Planter	PLT-060	1	USD	22.00	b7028bffb6@marketplace.amazon.com
+113-1499339-8425238	2026-06-16T03:14:11+00:00	Shipped	Green Tea 100g	TEA-010	3	USD	28.50	b7028bffb6@marketplace.amazon.com
+114-7097414-2515088	2026-06-16T12:08:20+00:00	Shipped	Glass Teapot	POT-020	1	USD	32.00	b9d6fdd1a5@marketplace.amazon.com
+113-1342293-8880256	2026-06-16T15:05:58+00:00	Shipped	Matcha 30g	TEA-012	1	USD	19.00	51fc5b14bd@marketplace.amazon.com
+113-1342293-8880256	2026-06-16T15:05:58+00:00	Shipped	Café Mug 350ml	MUG-001	1	USD	14.00	51fc5b14bd@marketplace.amazon.com
+111-3461642-3503436	2026-06-16T21:38:39+00:00	Shipped	Canvas Tote	BAG-030	1	USD	18.00	634a9ff50e@marketplace.amazon.com
+111-3461642-3503436	2026-06-16T21:38:39+00:00	Shipped	Notebook A5	NB-040	1	USD	7.50	634a9ff50e@marketplace.amazon.com
+112-9537891-5299767	2026-06-17T01:35:30+00:00	Shipped	Earl Grey 100g	TEA-011	1	USD	8.50	b97b3cfc10@marketplace.amazon.com
+112-9537891-5299767	2026-06-17T01:35:30+00:00	Shipped	Gel Pen 3-pack	PEN-041	1	USD	4.50	b97b3cfc10@marketplace.amazon.com
+111-5071537-3190059	2026-06-17T11:32:29+00:00	Shipped	Gel Pen 3-pack	PEN-041	1	USD	4.50	ca1f619ed@marketplace.amazon.com
+111-1089942-5255656	2026-06-17T15:15:03+00:00	Shipped	Notebook A5	NB-040	1	USD	7.50	4d618521ab@marketplace.amazon.com
+111-1089942-5255656	2026-06-17T15:15:03+00:00	Shipped	Soy Candle	CND-050	1	USD	16.00	4d618521ab@marketplace.amazon.com
+114-5287143-6048065	2026-06-17T20:46:55+00:00	Shipped	Green Tea 100g	TEA-010	2	USD	19.00	c1d29cf92a@marketplace.amazon.com
+114-4681019-1062026	2026-06-17T23:27:00+00:00	Shipped	Canvas Tote	BAG-030	1	USD	18.00	3ab176e71f@marketplace.amazon.com
+114-4681019-1062026	2026-06-17T23:27:00+00:00	Shipped	Gel Pen 3-pack	PEN-041	3	USD	13.50	3ab176e71f@marketplace.amazon.com
+111-8009048-1741958	2026-06-18T10:48:38+00:00	Shipped	Café Mug 350ml	MUG-001	1	USD	14.00	bb787cb0d3@marketplace.amazon.com
+111-8009048-1741958	2026-06-18T10:48:38+00:00	Shipped	Earl Grey 100g	TEA-011	2	USD	17.00	bb787cb0d3@marketplace.amazon.com
+114-9290445-2988307	2026-06-19T08:50:25+00:00	Shipped	Green Tea 100g	TEA-010	1	USD	9.50	30340155bd@marketplace.amazon.com
+114-8960796-1596568	2026-06-19T16:55:38+00:00	Shipped	Earl Grey 100g	TEA-011	2	USD	17.00	277b434a72@marketplace.amazon.com
+114-8960796-1596568	2026-06-19T16:55:38+00:00	Shipped	Soy Candle	CND-050	1	USD	16.00	277b434a72@marketplace.amazon.com
+114-8960796-1596568	2026-06-19T16:55:38+00:00	Shipped	Gel Pen 3-pack	PEN-041	2	USD	9.00	277b434a72@marketplace.amazon.com
+112-2492779-8758202	2026-06-19T19:51:56+00:00	Shipped	Café Mug 350ml	MUG-001	1	USD	14.00	dab385d9de@marketplace.amazon.com
+113-1561397-1635269	2026-06-20T08:02:34+00:00	Shipped	Canvas Tote	BAG-030	3	USD	54.00	5eb4732eb6@marketplace.amazon.com
+114-9219877-6450844	2026-06-20T09:56:33+00:00	Shipped	Earl Grey 100g	TEA-011	1	USD	8.50	3fe338e579@marketplace.amazon.com
+114-9219877-6450844	2026-06-20T09:56:33+00:00	Shipped	Gel Pen 3-pack	PEN-041	1	USD	4.50	3fe338e579@marketplace.amazon.com
+113-5756043-4616856	2026-06-21T20:10:05+00:00	Shipped	Travel Mug	MUG-002	1	USD	24.00	7dbd5a6112@marketplace.amazon.com
+113-9937547-8276689	2026-06-22T00:40:46+00:00	Cancelled	Matcha 30g	TEA-012	1	USD	19.00	a0ba0371f9@marketplace.amazon.com
+112-3043299-3012881	2026-06-22T02:05:42+00:00	Shipped	Notebook A5	NB-040	2	USD	15.00	219accb00d@marketplace.amazon.com
+112-3043299-3012881	2026-06-22T02:05:42+00:00	Shipped	Matcha 30g	TEA-012	3	USD	57.00	219accb00d@marketplace.amazon.com
+111-6419028-8256954	2026-06-22T18:09:22+00:00	Shipped	Notebook A5	NB-040	1	USD	7.50	46682904ca@marketplace.amazon.com
+113-4784649-3545240	2026-06-22T21:53:21+00:00	Shipped	Café Mug 350ml	MUG-001	1	USD	14.00	a86491982b@marketplace.amazon.com
+112-8659527-8297709	2026-06-23T13:09:41+00:00	Shipped	Ceramic Planter	PLT-060	1	USD	22.00	88a3b81f92@marketplace.amazon.com
+113-6908990-3693705	2026-06-23T14:14:01+00:00	Shipped	Glass Teapot	POT-020	1	USD	32.00	bac7e2a618@marketplace.amazon.com
+113-6908990-3693705	2026-06-23T14:14:01+00:00	Shipped	Café Mug 350ml	MUG-001	1	USD	14.00	bac7e2a618@marketplace.amazon.com
+114-1892920-4169550	2026-06-23T18:39:06+00:00	Shipped	Earl Grey 100g	TEA-011	1	USD	8.50	2e3ad82406@marketplace.amazon.com
+111-8221021-2998738	2026-06-24T03:31:31+00:00	Shipped	Earl Grey 100g	TEA-011	1	USD	8.50	da5086f384@marketplace.amazon.com
+111-8221021-2998738	2026-06-24T03:31:31+00:00	Shipped	Travel Mug	MUG-002	1	USD	24.00	da5086f384@marketplace.amazon.com
+114-1111126-1709057	2026-06-24T14:44:25+00:00	Shipped	Earl Grey 100g	TEA-011	3	USD	25.50	9e5f06bc76@marketplace.amazon.com
+112-8001691-5032585	2026-06-25T07:38:37+00:00	Shipped	Ceramic Planter	PLT-060	1	USD	22.00	f86d2ccf42@marketplace.amazon.com
+111-2633502-9913623	2026-06-25T11:41:38+00:00	Shipped	Canvas Tote	BAG-030	1	USD	18.00	d8f4c873a7@marketplace.amazon.com
+111-2633502-9913623	2026-06-25T11:41:38+00:00	Shipped	Green Tea 100g	TEA-010	1	USD	9.50	d8f4c873a7@marketplace.amazon.com
+114-3600333-7231035	2026-06-26T12:25:42+00:00	Shipped	Café Mug 350ml	MUG-001	1	USD	14.00	283fac4317@marketplace.amazon.com
+114-3600333-7231035	2026-06-26T12:25:42+00:00	Shipped	Ceramic Planter	PLT-060	3	USD	66.00	283fac4317@marketplace.amazon.com
+112-9337466-2263679	2026-06-26T14:30:00+00:00	Shipped	Green Tea 100g	TEA-010	1	USD	9.50	36892c6b33@marketplace.amazon.com
+111-4119515-2715864	2026-06-26T15:30:29+00:00	Shipped	Notebook A5	NB-040	1	USD	7.50	b7200291bb@marketplace.amazon.com
+111-4119515-2715864	2026-06-26T15:30:29+00:00	Shipped	Travel Mug	MUG-002	1	USD	24.00	b7200291bb@marketplace.amazon.com
+112-2085660-7102041	2026-06-27T18:55:54+00:00	Pending	Soy Candle	CND-050	1	USD	16.00	3356b09052@marketplace.amazon.com
+112-2085660-7102041	2026-06-27T18:55:54+00:00	Pending	Glass Teapot	POT-020	1	USD	32.00	3356b09052@marketplace.amazon.com
+113-8164770-6309796	2026-06-29T01:16:55+00:00	Shipped	Green Tea 100g	TEA-010	1	USD	9.50	fe933c8d00@marketplace.amazon.com
+113-8164770-6309796	2026-06-29T01:16:55+00:00	Shipped	Matcha 30g	TEA-012	1	USD	19.00	fe933c8d00@marketplace.amazon.com
+113-1783099-5487758	2026-06-30T02:58:41+00:00	Shipped	Canvas Tote	BAG-030	1	USD	18.00	b0da78f4c5@marketplace.amazon.com
+113-1783099-5487758	2026-06-30T02:58:41+00:00	Shipped	Café Mug 350ml	MUG-001	2	USD	28.00	b0da78f4c5@marketplace.amazon.com
+111-9825074-4029442	2026-06-30T18:04:07+00:00	Shipped	Notebook A5	NB-040	2	USD	15.00	3f13ab7d2c@marketplace.amazon.com
+111-9825074-4029442	2026-06-30T18:04:07+00:00	Shipped	Café Mug 350ml	MUG-001	1	USD	14.00	3f13ab7d2c@marketplace.amazon.com

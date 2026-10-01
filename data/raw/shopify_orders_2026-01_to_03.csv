@@ -1,0 +1,265 @@
+﻿Name,Email,Financial Status,Created at,Currency,Lineitem quantity,Lineitem name,Lineitem price,Lineitem sku
+#1001,customer360@example.com,paid,2026-01-02 03:37:53 -0500,USD,2,Soy Candle,16.00,CND-050
+#1001,,,,USD,1,Matcha 30g,19.00,TEA-012
+#1002,customer75@example.com,paid,2026-01-02 15:46:59 -0500,USD,1,Green Tea 100g,9.50,TEA-010
+#1002,,,,USD,1,Notebook A5,7.50,NB-040
+#1003,customer110@example.com,paid,2026-01-03 09:03:12 -0500,USD,1,Gel Pen 3-pack,4.50,PEN-041
+#1003,,,,USD,2,Café Mug 350ml,14.00,MUG-001
+#1003,,,,USD,1,Travel Mug,24.00,MUG-002
+#1004,customer335@example.com,paid,2026-01-06 01:23:42 -0500,USD,1,Café Mug 350ml,14.00,MUG-001
+#1005,customer212@example.com,refunded,2026-01-06 09:01:14 -0500,USD,1,Notebook A5,7.50,NB-040
+#1006,customer98@example.com,paid,2026-01-07 09:29:58 -0500,USD,2,Gel Pen 3-pack,4.50,PEN-041
+#1007,customer159@example.com,paid,2026-01-08 08:17:26 -0500,USD,2,Green Tea 100g,9.50,TEA-010
+#1008,customer161@example.com,paid,2026-01-08 13:44:16 -0500,USD,1,Notebook A5,7.50,NB-040
+#1008,,,,USD,2,Gel Pen 3-pack,4.50,PEN-041
+#1009,customer131@example.com,paid,2026-01-09 11:10:52 -0500,USD,1,Glass Teapot,32.00,POT-020
+#1009,,,,USD,1,Earl Grey 100g,8.50,TEA-011
+#1009,,,,USD,1,Matcha 30g,19.00,TEA-012
+#1010,customer102@example.com,paid,2026-01-10 22:02:39 -0500,USD,1,Matcha 30g,19.00,TEA-012
+#1010,,,,USD,2,Canvas Tote,18.00,BAG-030
+#1010,,,,USD,2,Café Mug 350ml,14.00,MUG-001
+#1011,customer359@example.com,paid,2026-01-11 09:57:34 -0500,USD,1,Matcha 30g,19.00,TEA-012
+#1011,,,,USD,3,Travel Mug,24.00,MUG-002
+#1012,customer31@example.com,paid,2026-01-14 17:24:19 -0500,USD,1,Matcha 30g,19.00,TEA-012
+#1012,,,,USD,1,Notebook A5,7.50,NB-040
+#1013,customer16@example.com,paid,2026-01-14 20:15:21 -0500,USD,1,Soy Candle,16.00,CND-050
+#1014,customer338@example.com,paid,2026-01-15 16:36:56 -0500,USD,1,Notebook A5,7.50,NB-040
+#1014,,,,USD,2,Gift Box,45.00,gft-070 
+#1015,customer29@example.com,paid,2026-01-16 09:35:47 -0500,USD,1,Earl Grey 100g,8.50,TEA-011
+#1016,customer244@example.com,paid,2026-01-16 11:01:40 -0500,USD,2,Earl Grey 100g,8.50,TEA-011
+#1017,customer128@example.com,paid,2026-01-17 12:32:00 -0500,USD,2,Earl Grey 100g,8.50,TEA-011
+#1018,customer5@example.com,paid,2026-01-19 01:21:49 -0500,USD,1,Earl Grey 100g,8.50,TEA-011
+#1019,customer291@example.com,refunded,2026-01-19 12:30:43 -0500,USD,2,Notebook A5,7.50,NB-040
+#1020,customer18@example.com,paid,2026-01-19 17:27:31 -0500,USD,1,Ceramic Planter,22.00,PLT-060
+#1021,customer180@example.com,paid,2026-01-19 21:17:09 -0500,USD,1,Matcha 30g,19.00,TEA-012
+#1021,,,,USD,1,Notebook A5,7.50,nb-040 
+#1022,customer288@example.com,refunded,2026-01-20 01:05:19 -0500,USD,1,Travel Mug,24.00,MUG-002
+#1022,,,,USD,2,Notebook A5,7.50,NB-040
+#1022,,,,USD,1,Soy Candle,16.00,CND-050
+#1023,customer204@example.com,paid,2026-01-21 11:55:19 -0500,USD,1,Earl Grey 100g,8.50,TEA-011
+#1023,,,,USD,1,Travel Mug,24.00,MUG-002
+#1023,,,,USD,1,Café Mug 350ml,14.00,MUG-001
+#1024, Customer44@Example.Com,paid,2026-01-21 20:11:45 -0500,USD,1,Gel Pen 3-pack,4.50,PEN-041
+#1025,customer120@example.com,paid,2026-01-22 20:10:24 -0500,USD,2,Canvas Tote,18.00,BAG-030
+#1025,,,,USD,1,Glass Teapot,32.00,POT-020
+#1025,,,,USD,1,Green Tea 100g,9.50,TEA-010
+#1026,customer110@example.com,paid,2026-01-23 08:23:50 -0500,USD,2,Ceramic Planter,22.00,PLT-060
+#1027,customer259@example.com,refunded,2026-01-23 09:59:03 -0500,USD,3,Green Tea 100g,9.50,TEA-010
+#1027,,,,USD,1,Notebook A5,7.50,NB-040
+#1028,customer237@example.com,paid,2026-01-23 13:50:15 -0500,USD,1,Green Tea 100g,9.50,TEA-010
+#1029,customer396@example.com,paid,2026-01-23 20:37:11 -0500,USD,2,Gel Pen 3-pack,4.50,PEN-041
+#1029,,,,USD,2,Earl Grey 100g,8.50,TEA-011
+#1030,customer227@example.com,paid,2026-01-25 08:36:21 -0500,USD,1,Canvas Tote,18.00,BAG-030
+#1030,,,,USD,1,Glass Teapot,32.00,POT-020
+#1031,customer294@example.com,paid,2026-01-27 05:21:18 -0500,USD,2,Notebook A5,7.50,NB-040
+#1031,,,,USD,1,Ceramic Planter,22.00,PLT-060
+#1031,,,,USD,1,Soy Candle,16.00,CND-050
+#1032,customer352@example.com,paid,2026-01-27 10:45:11 -0500,USD,1,Notebook A5,7.50,NB-040
+#1032,,,,USD,1,Soy Candle,16.00,CND-050
+#1032,,,,USD,1,Café Mug 350ml,14.00,MUG-001
+#1033,customer179@example.com,paid,2026-01-27 15:21:45 -0500,USD,2,Notebook A5,7.50,NB-040
+#1034,customer109@example.com,paid,2026-01-27 17:46:39 -0500,USD,1,Gift Box,45.00,GFT-070
+#1034,,,,USD,3,Green Tea 100g,9.50,TEA-010
+#1035,customer235@example.com,paid,2026-01-28 01:59:14 -0500,USD,1,Green Tea 100g,9.50,tea-010 
+#1035,,,,USD,1,Matcha 30g,19.00,TEA-012
+#1035,,,,USD,1,Earl Grey 100g,8.50,TEA-011
+#1036,customer219@example.com,paid,2026-01-28 12:49:08 -0500,USD,1,Earl Grey 100g,8.50,TEA-011
+#1037,customer325@example.com,paid,2026-01-29 07:25:10 -0500,USD,1,Earl Grey 100g,8.50,TEA-011
+#1038,customer147@example.com,paid,2026-01-29 21:26:53 -0500,USD,1,Soy Candle,16.00,cnd-050 
+#1039,customer396@example.com,paid,2026-01-30 02:26:49 -0500,USD,1,Canvas Tote,18.00,BAG-030
+#1039,,,,USD,2,Gift Box,45.00,GFT-070
+#1039,,,,USD,1,Green Tea 100g,9.50,TEA-010
+#1040,customer189@example.com,paid,2026-01-30 09:34:03 -0500,USD,2,Earl Grey 100g,8.50,TEA-011
+#1041,customer46@example.com,paid,2026-01-30 10:04:03 -0500,USD,2,Canvas Tote,18.00,BAG-030
+#1042,customer284@example.com,paid,2026-01-31 06:27:47 -0500,USD,1,Canvas Tote,18.00,BAG-030
+#1043,customer365@example.com,paid,2026-01-31 11:29:09 -0500,USD,1,Soy Candle,16.00,CND-050
+#1044,customer348@example.com,paid,2026-02-01 03:18:49 -0500,USD,1,Matcha 30g,19.00,TEA-012
+#1044,,,,USD,3,Glass Teapot,32.00,POT-020
+#1045,customer377@example.com,paid,2026-02-01 17:04:40 -0500,USD,1,Earl Grey 100g,8.50,TEA-011
+#1045,,,,USD,1,Green Tea 100g,9.50,TEA-010
+#1046,customer176@example.com,paid,2026-02-02 01:50:56 -0500,USD,1,Gel Pen 3-pack,4.50,PEN-041
+#1046,,,,USD,1,Matcha 30g,19.00,TEA-012
+#1046,,,,USD,1,Earl Grey 100g,8.50,TEA-011
+#1047,customer121@example.com,paid,2026-02-02 07:23:02 -0500,USD,1,Earl Grey 100g,8.50,TEA-011
+#1048,customer292@example.com,paid,2026-02-03 03:26:16 -0500,USD,1,Café Mug 350ml,14.00,MUG-001
+#1048,,,,USD,1,Notebook A5,7.50,nb-040 
+#1049,customer99@example.com,refunded,2026-02-03 07:31:07 -0500,USD,2,Matcha 30g,19.00,TEA-012
+#1049,,,,USD,1,Travel Mug,24.00,MUG-002
+#1049,,,,USD,1,Earl Grey 100g,8.50,TEA-011
+#1050,customer347@example.com,paid,2026-02-03 13:58:12 -0500,USD,1,Gel Pen 3-pack,4.50,PEN-041
+#1050,,,,USD,1,Green Tea 100g,9.50,TEA-010
+#1051,customer231@example.com,paid,2026-02-03 17:23:43 -0500,USD,2,Café Mug 350ml,14.00,MUG-001
+#1052,customer79@example.com,paid,2026-02-04 02:02:49 -0500,USD,1,Green Tea 100g,9.50,TEA-010
+#1053,customer320@example.com,paid,2026-02-04 12:43:55 -0500,USD,1,Notebook A5,7.50,NB-040
+#1053,,,,USD,1,Canvas Tote,18.00,BAG-030
+#1054,customer400@example.com,paid,2026-02-04 23:58:19 -0500,USD,3,Travel Mug,24.00,MUG-002
+#1054,,,,USD,2,Earl Grey 100g,8.50,TEA-011
+#1055,customer213@example.com,paid,2026-02-05 18:49:13 -0500,USD,1,Matcha 30g,19.00,TEA-012
+#1056, Customer144@Example.Com,paid,2026-02-08 00:42:38 -0500,USD,1,Soy Candle,16.00,CND-050
+#1057,customer337@example.com,paid,2026-02-08 05:12:38 -0500,USD,3,Gel Pen 3-pack,4.50,PEN-041
+#1058,customer238@example.com,paid,2026-02-08 10:50:31 -0500,USD,1,Earl Grey 100g,8.50,TEA-011
+#1058,,,,USD,1,Matcha 30g,19.00,TEA-012
+#1059, Customer53@Example.Com,paid,2026-02-09 03:52:31 -0500,USD,1,Travel Mug,24.00,MUG-002
+#1060,customer315@example.com,paid,2026-02-09 08:39:57 -0500,USD,1,Notebook A5,7.50,MUG001
+#1061,customer357@example.com,paid,2026-02-09 21:21:09 -0500,USD,2,Notebook A5,7.50,NB-040
+#1062,customer289@example.com,paid,2026-02-10 00:22:24 -0500,USD,1,Gift Box,45.00,GFT-070
+#1063,customer200@example.com,paid,2026-02-10 13:15:49 -0500,USD,2,Café Mug 350ml,14.00,MUG-001
+#1064,customer241@example.com,paid,2026-02-10 13:41:21 -0500,USD,1,Green Tea 100g,9.50,TEA-010
+#1065,CUSTOMER283@EXAMPLE.COM,paid,2026-02-11 09:54:27 -0500,USD,3,Café Mug 350ml,14.00,MUG-001
+#1065,,,,USD,1,Ceramic Planter,22.00,PLT-060
+#1066,customer316@example.com,paid,2026-02-12 06:33:28 -0500,USD,1,Canvas Tote,18.00,BAG-030
+#1067,customer133@example.com,paid,2026-02-12 11:36:26 -0500,USD,2,Café Mug 350ml,14.00,MUG-001
+#1067,,,,USD,1,Gel Pen 3-pack,4.50,PEN-041
+#1067,,,,USD,1,Glass Teapot,32.00,POT-020
+#1068,CUSTOMER314@EXAMPLE.COM,paid,2026-02-13 01:40:29 -0500,USD,1,Notebook A5,7.50,NB-040
+#1068,,,,USD,3,Gel Pen 3-pack,4.50,PEN-041
+#1068,,,,USD,1,Earl Grey 100g,8.50,TEA-011
+#1069,customer235@example.com,paid,2026-02-13 10:57:48 -0500,USD,1,Matcha 30g,19.00,TEA-012
+#1069,,,,USD,2,Travel Mug,24.00,MUG-002
+#1070,customer369@example.com,paid,2026-02-13 16:12:07 -0500,USD,1,Ceramic Planter,22.00,PLT-060
+#1071,customer273@example.com,paid,2026-02-14 11:33:40 -0500,USD,2,Notebook A5,7.50,NB-040
+#1072,customer399@example.com,paid,2026-02-14 20:57:14 -0500,USD,1,Earl Grey 100g,8.50,TEA-011
+#1072,,,,USD,1,Travel Mug,24.00,MUG-002
+#1072,,,,USD,1,Ceramic Planter,22.00,plt-060 
+#1073,customer348@example.com,paid,2026-02-14 21:10:14 -0500,USD,1,Café Mug 350ml,14.00,MUG-001
+#1073,,,,USD,1,Notebook A5,7.50,NB-040
+#1074,customer204@example.com,refunded,2026-02-15 09:28:28 -0500,USD,1,Gel Pen 3-pack,4.50,PEN-041
+#1075,customer50@example.com,paid,2026-02-16 02:36:24 -0500,USD,2,Green Tea 100g,9.50,TEA-010
+#1075,,,,USD,1,Gel Pen 3-pack,4.50,PEN-041
+#1075,,,,USD,1,Notebook A5,7.50,NB-040
+#1076,customer27@example.com,paid,2026-02-16 18:21:16 -0500,USD,1,Travel Mug,24.00,MUG-002
+#1076,,,,USD,1,Earl Grey 100g,8.50,TEA-011
+#1077,customer186@example.com,paid,2026-02-17 10:00:13 -0500,USD,2,Canvas Tote,18.00,BAG-030
+#1077,,,,USD,1,Glass Teapot,32.00,POT-020
+#1078,customer358@example.com,paid,2026-02-17 15:11:35 -0500,USD,2,Glass Teapot,32.00,POT-020
+#1078,,,,USD,1,Café Mug 350ml,14.00,MUG-001
+#1079,customer270@example.com,paid,2026-02-18 07:03:54 -0500,USD,1,Green Tea 100g,9.50,TEA-010
+#1080,customer353@example.com,paid,2026-02-20 08:58:34 -0500,USD,1,Green Tea 100g,9.50,TEA-010
+#1080,,,,USD,1,Soy Candle,16.00,CND-050
+#1080,,,,USD,1,Notebook A5,7.50,NB-040
+#1081,customer400@example.com,paid,2026-02-20 10:51:40 -0500,USD,1,Travel Mug,24.00,MUG-002
+#1082,customer109@example.com,paid,2026-02-20 19:01:42 -0500,USD,1,Green Tea 100g,9.50,TEA-010
+#1083,customer392@example.com,paid,2026-02-20 22:45:34 -0500,USD,2,Glass Teapot,32.00,POT-020
+#1083,,,,USD,1,Green Tea 100g,9.50,TEA-010
+#1084,customer133@example.com,paid,2026-02-22 07:36:36 -0500,USD,1,Notebook A5,7.50,NB-040
+#1084,,,,USD,2,Café Mug 350ml,14.00,MUG-001
+#1085, Customer40@Example.Com,paid,2026-02-22 13:46:07 -0500,USD,1,Matcha 30g,19.00,TEA-012
+#1086,customer68@example.com,paid,2026-02-22 17:37:30 -0500,USD,1,Canvas Tote,18.00,BAG-030
+#1086,,,,USD,1,Earl Grey 100g,8.50,TEA-011
+#1087,CUSTOMER113@EXAMPLE.COM,paid,2026-02-25 20:07:30 -0500,USD,1,Canvas Tote,18.00,BAG-030
+#1087,,,,USD,2,Ceramic Planter,22.00,PLT-060
+#1087,,,,USD,1,Café Mug 350ml,14.00,MUG-001
+#1088,CUSTOMER253@EXAMPLE.COM,paid,2026-02-27 02:53:11 -0500,USD,1,Matcha 30g,19.00,TEA-012
+#1088,,,,USD,1,Gift Box,45.00,GFT-070
+#1089,customer328@example.com,paid,2026-02-27 10:46:18 -0500,USD,2,Café Mug 350ml,14.00,MUG-001
+#1089,,,,USD,1,Earl Grey 100g,8.50,TEA-011
+#1090,customer267@example.com,paid,2026-02-28 06:38:30 -0500,USD,1,Travel Mug,24.00,MUG-002
+#1090,,,,USD,1,Green Tea 100g,9.50,TEA-010
+#1091,customer279@example.com,paid,2026-03-01 12:05:21 -0500,USD,1,Gel Pen 3-pack,4.50,PEN-041
+#1091,,,,USD,1,Matcha 30g,19.00,TEA-012
+#1092,CUSTOMER234@EXAMPLE.COM,paid,2026-03-01 13:39:34 -0500,USD,1,Notebook A5,7.50,NB-040
+#1093,customer329@example.com,paid,2026-03-01 16:00:38 -0500,USD,1,Matcha 30g,19.00,TEA-012
+#1094,customer337@example.com,paid,2026-03-02 01:08:02 -0500,USD,1,Soy Candle,16.00,CND-050
+#1094,,,,USD,1,Canvas Tote,18.00,BAG-030
+#1095,customer386@example.com,paid,2026-03-02 07:09:39 -0500,USD,2,Green Tea 100g,9.50,TEA-010
+#1096,customer343@example.com,paid,2026-03-03 17:07:10 -0500,USD,1,Green Tea 100g,9.50,TEA-010
+#1097,customer121@example.com,paid,2026-03-03 17:12:31 -0500,USD,1,Ceramic Planter,22.00,PLT-060
+#1098, Customer54@Example.Com,pending,2026-03-03 18:45:51 -0500,USD,1,Soy Candle,16.00,CND-050
+#1099,customer251@example.com,paid,2026-03-04 00:19:46 -0500,USD,1,Green Tea 100g,9.50,TEA-010
+#1099,,,,USD,1,Earl Grey 100g,8.50,TEA-011
+#1099,,,,USD,1,Travel Mug,24.00,MUG-002
+#1100,customer93@example.com,pending,2026-03-04 23:24:18 -0500,USD,1,Ceramic Planter,22.00,PLT-060
+#1101,customer345@example.com,paid,2026-03-05 03:59:13 -0500,USD,1,Soy Candle,16.00,CND-050
+#1102,CUSTOMER191@EXAMPLE.COM,pending,2026-03-05 04:32:30 -0500,USD,2,Green Tea 100g,9.50,TEA-010
+#1103,customer277@example.com,paid,2026-03-05 21:03:37 -0500,USD,2,Canvas Tote,18.00,BAG-030
+#1104, Customer30@Example.Com,pending,2026-03-06 07:27:14 -0500,USD,1,Earl Grey 100g,8.50,TEA-011
+#1104,,,,USD,1,Gel Pen 3-pack,4.50,PEN-041
+#1104,,,,USD,2,Café Mug 350ml,14.00,MUG-001
+#1105,customer154@example.com,paid,2026-03-06 13:46:35 -0500,USD,2,Green Tea 100g,9.50,TEA-010
+#1106,customer280@example.com,pending,2026-03-08 17:59:15 -0400,USD,3,Ceramic Planter,22.00,plt-060 
+#1106,,,,USD,3,Green Tea 100g,9.50,TEA-010
+#1107,customer154@example.com,paid,2026-03-09 06:08:34 -0400,USD,1,Notebook A5,7.50,NB-040
+#1107,,,,USD,1,Travel Mug,24.00,MUG-002
+#1107,,,,USD,3,Glass Teapot,32.00,POT-020
+#1108,customer345@example.com,paid,2026-03-10 17:37:37 -0400,USD,2,Matcha 30g,19.00,TEA-012
+#1108,,,,USD,1,Green Tea 100g,9.50,TEA-010
+#1109,customer347@example.com,paid,2026-03-13 05:29:13 -0400,USD,1,Earl Grey 100g,8.50,TEA-011
+#1109,,,,USD,1,Café Mug 350ml,14.00,MUG-001
+#1110,customer326@example.com,pending,2026-03-14 14:33:22 -0400,USD,1,Gel Pen 3-pack,4.50,PEN-041
+#1111, Customer12@Example.Com,paid,2026-03-15 08:17:29 -0400,USD,2,Ceramic Planter,22.00,PLT-060
+#1111,,,,USD,2,Soy Candle,16.00,CND-050
+#1111,,,,USD,1,Gift Box,45.00,GFT-070
+#1112,customer142@example.com,paid,2026-03-15 15:01:34 -0400,USD,1,Ceramic Planter,22.00,PLT-060
+#1112,,,,USD,1,Travel Mug,24.00,MUG-002
+#1112,,,,USD,1,Glass Teapot,32.00,POT-020
+#1113,customer233@example.com,paid,2026-03-16 00:39:09 -0400,USD,3,Green Tea 100g,9.50,TEA-010
+#1113,,,,USD,2,Earl Grey 100g,8.50,TEA-011
+#1114,customer41@example.com,paid,2026-03-16 13:16:39 -0400,USD,1,Café Mug 350ml,14.00,MUG-001
+#1115,customer64@example.com,pending,2026-03-16 20:28:33 -0400,USD,1,Soy Candle,16.00,CND-050
+#1115,,,,USD,1,Gift Box,45.00,GFT-070
+#1116,customer6@example.com,paid,2026-03-17 13:01:03 -0400,USD,1,Notebook A5,7.50,NB-040
+#1117,customer152@example.com,paid,2026-03-17 18:54:07 -0400,USD,2,Travel Mug,24.00,MUG-002
+#1118,customer80@example.com,paid,2026-03-18 08:26:09 -0400,USD,1,Café Mug 350ml,14.00,MUG-001
+#1119,customer62@example.com,paid,2026-03-18 22:44:30 -0400,USD,1,Notebook A5,7.50,NB-040
+#1119,,,,USD,1,Glass Teapot,32.00,POT-020
+#1120,customer136@example.com,paid,2026-03-19 00:22:56 -0400,USD,1,Earl Grey 100g,8.50,TEA-011
+#1120,,,,USD,1,Ceramic Planter,22.00,PLT-060
+#1120,,,,USD,1,Green Tea 100g,9.50,TEA-010
+#1121, Customer205@Example.Com,paid,2026-03-19 06:27:44 -0400,USD,1,Matcha 30g,19.00,TEA-012
+#1122,customer356@example.com,paid,2026-03-19 10:59:05 -0400,USD,1,Café Mug 350ml,14.00,MUG-001
+#1123,customer92@example.com,paid,2026-03-19 16:45:42 -0400,USD,1,Matcha 30g,19.00,TEA-012
+#1123,,,,USD,1,Glass Teapot,32.00,POT-020
+#1124,customer99@example.com,paid,2026-03-22 04:00:17 -0400,USD,2,Notebook A5,7.50,NB-040
+#1125,customer350@example.com,paid,2026-03-22 20:03:57 -0400,USD,2,Ceramic Planter,22.00,PLT-060
+#1125,,,,USD,1,Café Mug 350ml,14.00,MUG-001
+#1126,CUSTOMER388@EXAMPLE.COM,paid,2026-03-23 02:13:09 -0400,USD,1,Earl Grey 100g,8.50,TEA-011
+#1126,,,,USD,1,Notebook A5,7.50,NB-040
+#1126,,,,USD,1,Soy Candle,16.00,CND-050
+#1127,customer81@example.com,paid,2026-03-23 13:31:21 -0400,USD,1,Notebook A5,7.50,NB-040
+#1127,,,,USD,1,Gift Box,45.00,GFT-070
+#1128,customer196@example.com,paid,2026-03-23 19:50:57 -0400,USD,1,Café Mug 350ml,14.00,MUG-001
+#1128,,,,USD,2,Green Tea 100g,9.50,TEA-010
+#1129, Customer383@Example.Com,paid,2026-03-24 02:04:39 -0400,USD,1,Matcha 30g,19.00,TEA-012
+#1130,customer258@example.com,paid,2026-03-24 03:24:55 -0400,USD,2,Travel Mug,24.00,MUG-002
+#1131,CUSTOMER383@EXAMPLE.COM,paid,2026-03-24 05:30:20 -0400,USD,1,Green Tea 100g,9.50,TEA-010
+#1132,customer73@example.com,paid,2026-03-24 05:31:16 -0400,USD,1,Canvas Tote,18.00,BAG-030
+#1132,,,,USD,1,Earl Grey 100g,8.50,TEA-011
+#1133,customer265@example.com,paid,2026-03-24 06:00:19 -0400,USD,1,Glass Teapot,32.00,POT-020
+#1134,customer198@example.com,paid,2026-03-24 08:17:34 -0400,USD,1,Glass Teapot,32.00,POT-020
+#1135,customer196@example.com,paid,2026-03-24 10:24:14 -0400,USD,1,Earl Grey 100g,8.50,TEA-011
+#1135,,,,USD,1,Notebook A5,7.50,NB-040
+#1136,customer169@example.com,paid,2026-03-24 19:46:29 -0400,USD,2,Notebook A5,7.50,NB-040
+#1136,,,,USD,2,Gift Box,45.00,GFT-070
+#1136,,,,USD,1,Café Mug 350ml,14.00,MUG-001
+#1137,customer219@example.com,pending,2026-03-25 21:16:33 -0400,USD,1,Ceramic Planter,22.00,PLT-060
+#1138,customer220@example.com,paid,2026-03-26 02:45:18 -0400,USD,1,Green Tea 100g,9.50,TEA-010
+#1139,customer277@example.com,paid,2026-03-27 00:16:40 -0400,USD,3,Travel Mug,24.00,MUG-002
+#1139,,,,USD,1,Notebook A5,7.50,NB-040
+#1139,,,,USD,1,Gift Box,45.00,GFT-070
+#1140,customer233@example.com,paid,2026-03-27 05:34:56 -0400,USD,3,Ceramic Planter,22.00,PLT-060
+#1140,,,,USD,1,Matcha 30g,19.00,TEA-012
+#1140,,,,USD,1,Travel Mug,24.00,MUG-002
+#1141,customer174@example.com,paid,2026-03-27 20:09:51 -0400,USD,1,Gel Pen 3-pack,4.50,PEN-041
+#1142,customer52@example.com,paid,2026-03-28 03:14:24 -0400,USD,1,Travel Mug,24.00,MUG-002
+#1143,customer143@example.com,paid,2026-03-28 15:13:52 -0400,USD,1,Green Tea 100g,9.50,TEA-010
+#1144,customer203@example.com,paid,2026-03-29 04:48:12 -0400,USD,1,Notebook A5,7.50,NB-040
+#1145,customer258@example.com,paid,2026-03-29 20:11:46 -0400,USD,1,Gel Pen 3-pack,4.50,PEN-041
+#1145,,,,USD,2,Canvas Tote,18.00,BAG-030
+#1145,,,,USD,1,Green Tea 100g,9.50,TEA-010
+#1146,customer290@example.com,paid,2026-03-29 22:44:12 -0400,USD,1,Glass Teapot,32.00,POT-020
+#1146,,,,USD,2,Soy Candle,16.00,CND-050
+#1146,,,,USD,1,Café Mug 350ml,14.00,MUG-001
+#1147,customer275@example.com,paid,2026-03-30 00:45:14 -0400,USD,1,Earl Grey 100g,8.50,TEA-011
+#1148,customer278@example.com,paid,2026-03-30 05:16:18 -0400,USD,1,Glass Teapot,32.00,POT-020
+#1149,customer207@example.com,paid,2026-03-30 08:34:07 -0400,USD,1,Travel Mug,24.00,MUG-002
+#1149,,,,USD,1,Ceramic Planter,22.00,PLT-060
+#1150,customer343@example.com,paid,2026-03-30 22:20:59 -0400,USD,2,Green Tea 100g,9.50,TEA-010
+#1151,customer323@example.com,paid,2026-03-31 01:09:55 -0400,USD,1,Travel Mug,24.00,MUG-002
+#1151,,,,USD,1,Earl Grey 100g,8.50,TEA-011
+#1151,,,,USD,2,Canvas Tote,18.00,BAG-030
+#1152, Customer103@Example.Com,paid,2026-03-31 14:03:11 -0400,USD,1,Soy Candle,16.00,CND-050
+#1152,,,,USD,1,Matcha 30g,19.00,TEA-012
+#1153, Customer44@Example.Com,paid,2026-03-31 16:00:29 -0400,USD,1,Travel Mug,24.00,MUG-002
+#1153,,,,USD,1,Earl Grey 100g,8.50,TEA-011
+#1153,,,,USD,1,Green Tea 100g,9.50,TEA-010
+#1154,customer79@example.com,paid,2026-03-31 22:38:18 -0400,USD,2,Earl Grey 100g,8.50,TEA-011
